@@ -82,10 +82,10 @@ Italy,Southern Europe,Europe,2010,149th,45.7,4.2,4,4.8,4.7,4.5,2.8,4.5,3.1,3,4,3
 Jamaica,Caribbean,North America,2010,119th,67.4,5.8,4,4.5,6.8,6.5,6.4,6.8,6.2,5.5,6,2.8,6.1,No,No,No
 Japan,East Asia,Asia,2010,164th,31.3,2.1,2.2,3.6,3.5,2.6,2.1,1.8,1.3,3.2,4,1.2,3.7,No,No,No
 Jordan,Western Asia,Asia,2010,90th,77,5.9,6.5,6.9,6.2,7.2,4.8,5.9,5.2,7,6.8,7.9,6.7,No,No,No
-Kazakhstan,CentralAsia,Asia,2010,103rd,72.7,6.3,7.6,5.7,6.7,6.2,4.1,7.5,5.5,7.1,5.8,4,6.2,Yes,No,No
+Kazakhstan,Central Asia,Asia,2010,103rd,72.7,6.3,7.6,5.7,6.7,6.2,4.1,7.5,5.5,7.1,5.8,4,6.2,Yes,No,No
 Kenya,Eastern Africa,Africa,2010,13th,100.7,7.5,8.7,8.9,7.4,8.7,7.9,9.3,8.1,8,9.1,8.7,8.4,No,No,No
 Kuwait,Western Asia,Asia,2010,125th,61.5,4.9,7.2,5.1,3.8,6.1,4.1,6,3.1,6.5,5.5,4.1,5.1,Yes,No,No
-Kyrgyz Republic,CentralAsia,Asia,2010,45th,88.4,7.6,7.4,7.4,7.9,7.9,7.3,8.4,6.3,7.6,7.8,5.2,7.6,No,No,No
+Kyrgyz Republic,Central Asia,Asia,2010,45th,88.4,7.6,7.4,7.4,7.9,7.9,7.3,8.4,6.3,7.6,7.8,5.2,7.6,No,No,No
 Laos,Southeast Asia,Asia,2010,40th,88.7,7.4,8.5,6.8,7.3,5.8,6.7,8.3,8.1,8.7,7.9,5.9,7.3,No,No,No
 Latvia,Northern Europe,Europe,2010,135th,55.4,3,4.3,4.6,6.3,6,5,5.4,4.2,3.5,4.3,4.3,4.5,No,No,No
 Lebanon,Western Asia,Asia,2010,34th,90.9,8.9,8.8,9,6.1,7.2,7,7.3,6,6.8,6.8,8.9,8.1,No,No,No
@@ -147,33 +147,33 @@ Solomon Islands,Melanesia,Oceania,2010,43rd,88.6,7,8,7,8,7.9,5.4,8.1,8.2,6.8,8.3
 Somalia,Eastern Africa,Africa,2010,1st,114.3,10,10,9.7,9.6,8,8.3,10,9.6,9.9,9.6,10,9.6,No,No,No
 South Africa,Southern Africa,Africa,2010,115th,67.9,4.1,5.9,5.6,5,8.5,4.4,5.8,5.5,4.7,8.4,7,3,No,No,No
 South Korea,East Asia,Asia,2010,153rd,41.3,1.5,3.6,3.9,2.8,2.5,4.8,3.9,2.3,2.8,3.6,3.3,6.3,No,No,No
-Spain,Eastern Africa,Africa,2010,151st,43.5,5.3,5.7,6.3,4.4,5,1.8,1.6,2.4,2.5,3.7,2.8,2,No,No,No
-Sri Lanka,Southern Europe,Europe,2010,25th,95.7,8.5,9.4,9.6,5.9,8.7,6.7,8.6,6.4,8.8,7.3,9.4,6.4,No,No,No
-Sudan,South Asia,Asia,2010,3rd,111.8,9.8,9.9,9.9,6.7,9.5,8.7,9.9,9.3,9.9,8.8,9.8,9.6,No,No,No
-Suriname,Northern Africa,Africa,2010,105th,72.5,6,5.8,6.4,6.6,7.7,6.7,6.5,5.1,5.8,6,3.7,6.2,No,No,No
-Swaziland,South America,South America,2010,63rd,82.8,6.6,6.9,4.2,8.2,6.2,6.2,8.6,7.6,7.7,9.1,4.2,7.3,No,No,No
-Sweden,Southern Africa,Africa,2010,175th,20.9,1.3,1.3,1.3,2.2,2.1,1.8,0.8,1.3,1.8,2.7,2.7,1.6,No,No,No
-Switzerland,Northern Europe,Europe,2010,174th,21.8,1.2,1,3.3,2.4,2.6,1.8,1,1.4,2.2,2.4,1.5,1,No,No,No
-Syria,Western Europe,Europe,2010,48th,87.9,7.6,7.8,8.3,6.3,7.8,6.6,8.6,5.5,8.8,5.9,8.9,5.8,No,No,No
-Tajikistan,Western Asia,Asia,2010,38th,89.2,7.3,8.4,6.9,7.5,7.1,6.3,8.9,7.3,8.7,8,6.2,6.6,No,No,No
-Tanzania,CentralAsia,Asia,2010,72nd,81.2,5.6,6,6.4,7.2,6.7,6.1,6.5,8.3,5.9,8.2,7.3,7,No,No,No
-Thailand,Eastern Africa,Africa,2010,81st,78.8,7.4,8,7.8,4.3,7.5,4.7,8,5.4,7,6.7,6.7,5.3,Yes,No,No
+Spain,Southern Europe,Europe,2010,151st,43.5,5.3,5.7,6.3,4.4,5,1.8,1.6,2.4,2.5,3.7,2.8,2,No,No,No
+Sri Lanka,South Asia,Asia,2010,25th,95.7,8.5,9.4,9.6,5.9,8.7,6.7,8.6,6.4,8.8,7.3,9.4,6.4,No,No,No
+Sudan,Northern Africa,Africa,2010,3rd,111.8,9.8,9.9,9.9,6.7,9.5,8.7,9.9,9.3,9.9,8.8,9.8,9.6,No,No,No
+Suriname,South America,South America,2010,105th,72.5,6,5.8,6.4,6.6,7.7,6.7,6.5,5.1,5.8,6,3.7,6.2,No,No,No
+Swaziland,Southern Africa,Africa,2010,63rd,82.8,6.6,6.9,4.2,8.2,6.2,6.2,8.6,7.6,7.7,9.1,4.2,7.3,No,No,No
+Sweden,Northern Europe,Europe,2010,175th,20.9,1.3,1.3,1.3,2.2,2.1,1.8,0.8,1.3,1.8,2.7,2.7,1.6,No,No,No
+Switzerland,Western Europe,Europe,2010,174th,21.8,1.2,1,3.3,2.4,2.6,1.8,1,1.4,2.2,2.4,1.5,1,No,No,No
+Syria,Western Asia,Asia,2010,48th,87.9,7.6,7.8,8.3,6.3,7.8,6.6,8.6,5.5,8.8,5.9,8.9,5.8,No,No,No
+Tajikistan,Central Asia,Asia,2010,38th,89.2,7.3,8.4,6.9,7.5,7.1,6.3,8.9,7.3,8.7,8,6.2,6.6,No,No,No
+Tanzania,Eastern Africa,Africa,2010,72nd,81.2,5.6,6,6.4,7.2,6.7,6.1,6.5,8.3,5.9,8.2,7.3,7,No,No,No
+Thailand,Southeast Asia,Asia,2010,81st,78.8,7.4,8,7.8,4.3,7.5,4.7,8,5.4,7,6.7,6.7,5.3,Yes,No,No
 Timor-Leste,Southeast Asia,Asia,2010,18th,98.2,8.8,8.7,7.5,8.4,7,6.1,9.1,8.7,7,8.6,9.1,9.2,No,No,No
-Togo,Southeast Asia,Asia,2010,47th,88.1,7.6,7.6,5.6,8,7.6,7,7.5,8.4,7.7,8,6.2,6.9,No,No,No
-Trinidad and Tobago,Western Africa,Africa,2010,124th,66.1,6,5.6,4.9,4.8,7.2,7.3,5.9,5.2,5.4,5.6,3.1,5.1,No,No,No
-Tunisia,Caribbean,North America,2010,118th,67.5,6.5,6,5.4,5,7,5.2,6.4,5.7,7.5,5.7,3.4,3.7,No,No,No
-Turkey,Northern Africa,Africa,2010,89th,77.1,7.4,7.8,8,5.8,7.8,4.8,6,5.4,5.5,6.3,6.3,6,No,No,No
-Turkmenistan,Western Asia,Asia,2010,65th,82.5,7.7,7.7,6.3,6.6,7.4,5.4,8.4,7,9,6.8,4.6,5.6,No,No,No
-Uganda,CentralAsia,Asia,2010,21st,97.5,8.7,8.6,8.5,7.2,8.4,6.9,7.9,8.2,7.6,8.7,8.9,7.9,No,No,No
-Ukraine,Eastern Africa,Africa,2010,109th,69.5,3.8,7.9,6.9,6.3,6.2,6.6,7.2,4,5.3,5.6,3.1,6.6,No,No,No
-United Arab Emirates,Eastern Europe,Europe,2010,137th,52.4,2.7,4,4.7,3.9,5.7,3.3,6.7,3.4,5.9,4.4,3.2,4.5,No,No,No
-United Kingdom,Western Asia,Asia,2010,161st,33.9,2.7,3.2,4.1,3,4.5,1.8,1.6,2.3,2.3,3.2,3,2.2,No,No,No
-United States,Northern Europe,Europe,2010,158th,35.3,1.6,3.3,3.4,4,5.4,1.1,2.5,2.5,3.7,3.1,3.2,1.5,No,No,No
-Uruguay,North America,North America,2010,153rd,41.3,3.4,3,2,4,5,5.6,2.6,3.4,2.5,4.3,1.3,4.2,No,No,No
-Uzbekistan,South America,South America,2010,36th,90.5,8.8,9,7.4,7,8.5,6.6,8.5,6.4,9.3,7.7,5.1,6.2,No,No,No
-Venezuela,CentralAsia,Asia,2010,82nd,78.7,6.7,7.5,6.8,5.8,7.6,6.7,7.2,6.1,7.2,6.3,5.1,5.7,No,No,No
-Vietnam,South America,South America,2010,95th,76.6,6,7,5.3,6.6,6.5,5.9,7.3,6.4,7.3,6.9,5.2,6.2,No,No,No
-Yemen,Southeast Asia,Asia,2010,15th,100,8.9,9.2,8.2,7.9,8.6,7.2,8.7,8.6,8,8.6,8.3,7.8,No,No,No
-Zambia,Western Asia,Asia,2010,56th,83.9,5,6.1,5.4,8,7.3,7.1,7.5,8,5.9,9,7.3,7.3,No,No,No
+Togo,Western Africa,Africa,2010,47th,88.1,7.6,7.6,5.6,8,7.6,7,7.5,8.4,7.7,8,6.2,6.9,No,No,No
+Trinidad and Tobago,Caribbean,North America,2010,124th,66.1,6,5.6,4.9,4.8,7.2,7.3,5.9,5.2,5.4,5.6,3.1,5.1,No,No,No
+Tunisia,Northern Africa,Africa,2010,118th,67.5,6.5,6,5.4,5,7,5.2,6.4,5.7,7.5,5.7,3.4,3.7,No,No,No
+Turkey,Western Asia,Asia,2010,89th,77.1,7.4,7.8,8,5.8,7.8,4.8,6,5.4,5.5,6.3,6.3,6,No,No,No
+Turkmenistan,Central Asia,Asia,2010,65th,82.5,7.7,7.7,6.3,6.6,7.4,5.4,8.4,7,9,6.8,4.6,5.6,No,No,No
+Uganda,Eastern Africa,Africa,2010,21st,97.5,8.7,8.6,8.5,7.2,8.4,6.9,7.9,8.2,7.6,8.7,8.9,7.9,No,No,No
+Ukraine,Eastern Europe,Europe,2010,109th,69.5,3.8,7.9,6.9,6.3,6.2,6.6,7.2,4,5.3,5.6,3.1,6.6,No,No,No
+United Arab Emirates,Western Asia,Asia,2010,137th,52.4,2.7,4,4.7,3.9,5.7,3.3,6.7,3.4,5.9,4.4,3.2,4.5,No,No,No
+United Kingdom,Northern Europe,Europe,2010,161st,33.9,2.7,3.2,4.1,3,4.5,1.8,1.6,2.3,2.3,3.2,3,2.2,No,No,No
+United States,North America,North America,2010,158th,35.3,1.6,3.3,3.4,4,5.4,1.1,2.5,2.5,3.7,3.1,3.2,1.5,No,No,No
+Uruguay,South America,South America,2010,153rd,41.3,3.4,3,2,4,5,5.6,2.6,3.4,2.5,4.3,1.3,4.2,No,No,No
+Uzbekistan,Central Asia,Asia,2010,36th,90.5,8.8,9,7.4,7,8.5,6.6,8.5,6.4,9.3,7.7,5.1,6.2,No,No,No
+Venezuela,South America,South America,2010,82nd,78.7,6.7,7.5,6.8,5.8,7.6,6.7,7.2,6.1,7.2,6.3,5.1,5.7,No,No,No
+Vietnam,Southeast Asia,Asia,2010,95th,76.6,6,7,5.3,6.6,6.5,5.9,7.3,6.4,7.3,6.9,5.2,6.2,No,No,No
+Yemen,Western Asia,Asia,2010,15th,100,8.9,9.2,8.2,7.9,8.6,7.2,8.7,8.6,8,8.6,8.3,7.8,No,No,No
+Zambia,Eastern Africa,Africa,2010,56th,83.9,5,6.1,5.4,8,7.3,7.1,7.5,8,5.9,9,7.3,7.3,No,No,No
 Zimbabwe,Eastern Africa,Africa,2010,4th,110.2,9.2,9.5,8.8,9.6,9.4,9.7,9.6,9.4,9.5,9.4,8.6,7.5,No,No,No
-,Eastern Africa,Africa,,,,,,,,,,,,,,,,No,No,No
+,,,,,,,,,,,,,,,,,,No,No,No
