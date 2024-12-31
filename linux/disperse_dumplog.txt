@@ -1,0 +1,762 @@
+Unix NetHack Version 3.7.0-53 Work-in-progress - last build Apr 17 2022 23:41:34 (02b85442fffe0e2954e411e09df771b56fe27bbc,branch:master).
+
+Game began 2022-05-01 15:39:09, ended 2022-05-02 16:39:04.
+
+disperse, chaotic female elven Wizard
+
+                          ---
+                         .....                    @
+                       q....)...               AA    AAD
+                     AA....)@....     B
+                      ...[A......       @ &     @          D
+            -----     ....)......     AA                @  @
+             ...|     --AA.---     @  @ @ J           A               A
+     ---------..--   ----&---            A
+     |.....a.|...-- --..%$%..                         A       @@@
+     |a.@@a..|.)@A---a.......          A A@@       @&           @    @
+     |..@@fd.-AA.@.$@.f.a%..            @       A@@             A
+     |...aA..|.A%)---a.....                           @        A     @ @
+     |a...a%.|...-- --....       @                            @
+     ---------..--   ----                    A                  A
+             ...|                      @                        A A
+            -----                            @
+                                         D   A
+                                  @
+                                   N      A@
+
+Disperse the Enchantress  St:18 Dx:17 Co:16 In:20 Wi:18 Ch:18  Chaotic
+Astral Plane $:0  HP:113(140) Pw:196(264) AC:-20 Xp:17/650538 T:32681 
+
+Latest messages:
+ The Angel of Thoth hits the displacer beast.
+ The Angel of Thoth misses the displacer beast.
+ The invisible Angel of Ptah zaps a wand of striking!
+ The wand misses the displacer beast.
+ The fog cloud turns into a vampire bat!
+ (For instructions type a '?')
+ What do you want to use or apply? [bcfh-nptuyzBCEFIKLOR or ?*]
+ #
+ What do you want to use or apply? [bcfh-nptuyzBCEFIKLOR or ?*]
+ M - a blessed scroll of remove curse.
+ Mr. Whiskers hits the winter wolf.
+ Mr. Whiskers hits the winter wolf.
+ Mr. Whiskers bites the winter wolf.
+ The winter wolf misses Mr. Whiskers.
+ The Angel of Thoth swings her long sword.
+ The Angel of Thoth hits!
+ The Angel of Thoth swings her long sword.
+ The Angel of Thoth hits!
+ The Angel of Thoth hits!
+ The Angel of Thoth casts a spell at you!
+ You are hit by a shower of missiles!
+ The missiles bounce off!
+ The invisible Angel of Ptah swings her long sword at the invisible Angel of Anhur.
+ The invisible Angel of Ptah misses the invisible Angel of Anhur.
+ The invisible Angel of Ptah swings her long sword at the invisible Angel of Anhur.
+ The invisible Angel of Ptah misses the invisible Angel of Anhur.
+ The invisible Angel of Ptah misses the invisible Angel of Anhur.
+ The invisible Angel of Ptah zaps you with a magic missile!
+ The magic missile hits the winter wolf!
+ The magic missile hits Mr. Whiskers!
+ The invisible Angel of Anhur zaps you with a magic missile!
+ The magic missile misses the invisible Angel of Ptah.
+ The magic missile hits the winter wolf!
+ The magic missile misses Mr. Whiskers.
+ The magic missile whizzes by you!
+ The magic missile hits the priest of Thoth!
+ The priest of Thoth casts a spell!
+ The priest of Thoth looks better.
+ What do you want to read? [M or ?*]
+ As you read the scroll, it disappears.
+ You feel like someone is helping you.
+ The giant ant turns to flee.
+ There is a high altar to Anhur (chaotic) here.
+ #
+ What do you want to sacrifice? [d or ?*]
+ You offer the Amulet of Yendor to Anhur...
+ An invisible choir sings, and you are bathed in radiance...
+ The voice of Anhur thunders: "Mortal, thou hast done well!"
+ "In return for thy service, I grant thee the gift of Immortality!"
+ You ascend to the status of Demigoddess...
+
+Major events:
+ Turn
+    1: disperse the chaotic female elven Wizard entered the dungeon
+  866: attained the rank of Conjurer (level 3)
+ 2830: entered the Gnomish Mines
+ 3161: attained the rank of Thaumaturge (level 6)
+ 3822: reached Mine Town
+ 4104: made her first wish - "+2 blessed greased silver dragon scale mail"
+ 4452: made her first artifact wish - "The Master Key of Thievery"
+ 4937: bestowed with Magicbane by Anhur
+ 7123: entered Sokoban
+ 7391: completed sokoban 1
+ 7907: completed sokoban 2
+ 8217: completed sokoban 3
+ 9054: completed sokoban 4
+10506: attained the rank of Magician (level 10)
+10664: acquired the Sokoban bag of holding
+12827: acquired the Mines' End luckstone
+15083: chosen to take lives for the Glory of Anhur
+15083: bestowed with spellbook of finger of death
+16004: entered the Bigroom
+18094: killed Medusa
+18838: performed her first genocide (class L)
+18840: genocided class h
+18846: wished for "marker"
+20647: attained the rank of Enchantress (level 14)
+21893: found the Eye of the Aethiopica on the floor
+21953: killed the invisible Dark One
+21955: acquired the Bell of Opening
+22407: genocided shocking spheres
+22995: entered Gehennom
+23673: bribed Asmodeus with 399 zorkmids for safe passage
+24226: killed Juiblex
+24940: destroyed Vlad the Impaler
+24942: acquired the Candelabrum of Invocation
+25652: bribed Baalzebub with 8 zorkmids for safe passage
+25713: wished for "marker"
+26427: killed Orcus
+29085: killed the Wizard of Yendor
+29091: acquired the Book of the Dead
+29395: performed the invocation
+29589: wished for "blessed partially eaten chickatrice corpse"
+29596: averted death (poisoned by Demogorgon)
+29596: killed the invisible Demogorgon
+29597: killed the invisible Yeenoghu
+29715: killed the high priest of Moloch
+29725: acquired The Amulet of Yendor
+29735: wished for "blessed amulet of life saving"
+30007: killed the Wizard of Yendor (2nd time)
+31353: killed the Wizard of Yendor (3rd time)
+32176: entered the Elemental Planes
+32176: entered Plane of Earth
+32177: killed the Wizard of Yendor (5th time)
+32378: wished for "marker"
+32448: entered Plane of Air
+32533: entered Plane of Fire
+32599: entered Plane of Water
+32642: entered the Astral Plane
+32652: killed the invisible Famine
+32654: found Sunsword carried by a monster
+32678: wished for "blessed figurine of a displacer beast"
+32681: ascended
+
+Inventory:
+ Amulets  ('"')
+  A - an uncursed amulet of guarding
+  P - a blessed amulet of life saving (being worn)
+  D - an uncursed amulet of magical breathing
+  G - the blessed Eye of the Aethiopica
+ Weapons  (')')
+  a - the blessed rustproof +3 Magicbane
+ Armor    ('[')
+  T - an uncursed thoroughly burnt rotted +0 elven leather helm (being worn)
+  N - a blessed +0 pair of leather gloves (being worn)
+  V - a blessed fireproof +3 pair of water walking boots (being worn)
+  Z - a blessed +2 cloak of magic resistance (being worn)
+  S - a blessed +4 Hawaiian shirt with a hula dancer motif (being worn)
+  r - a blessed +4 silver dragon scale mail (being worn)
+ Comestibles  ('%')
+  H - 2 uncursed K-rations
+  w - 2 uncursed lembas wafers
+  q - an uncursed partly eaten lizard corpse
+ Potions  ('!')
+  Y - a blessed potion of full healing
+ Rings    ('=')
+  X - a blessed ring of conflict (on left hand)
+  o - a blessed ring of free action (on right hand)
+  e - a blessed +3 ring of protection
+ Wands    ('/')
+  O - an uncursed wand of cold (0:5)
+  z - a blessed wand of death (1:8)
+  I - an uncursed wand of digging (0:8)
+  C - an uncursed wand of digging (0:6)
+  y - an uncursed wand of digging (0:8)
+  E - an uncursed wand of digging (0:4)
+  c - an uncursed wand of digging (0:2)
+  K - an uncursed wand of fire (0:3)
+  p - an uncursed wand of lightning (0:3)
+  R - an uncursed wand of magic missile (0:1)
+  i - an uncursed wand of probing (0:8)
+  F - an uncursed wand of sleep (0:4)
+  j - an uncursed wand of striking (0:3)
+ Tools    ('(')
+  b - a blessed bag of holding containing 44 items
+  n - an uncursed oilskin sack containing 1 item
+  h - an uncursed bugle
+  f - an uncursed magic flute (0:7)
+  t - a blessed blindfold
+  m - an uncursed magic marker (0:9)
+  L - the uncursed Master Key of Thievery
+  l - a blessed oil lamp (lit) (wielded)
+  B - a blessed +0 pick-axe
+  k - an uncursed skeleton key
+  u - a blessed +0 unicorn horn
+ Gems/Stones  ('*')
+  v - a blessed luckstone
+
+Contents of the bag of holding:
+  an uncursed amulet of magical breathing
+  a blessed -1 pair of levitation boots
+  9 uncursed K-rations
+  an uncursed sprig of wolfsbane
+  an uncursed tripe ration
+  an uncursed lizard corpse
+  2 uncursed lizard corpses
+  5 blessed scrolls of blank paper
+  3 cursed scrolls of blank paper
+  2 blessed scrolls of charging named blessed
+  an uncursed scroll of earth
+  a cursed scroll of genocide named cursed
+  4 blessed scrolls of remove curse
+  an uncursed scroll of remove curse
+  an uncursed scroll of taming
+  a blessed scroll of teleportation
+  3 uncursed scrolls of teleportation
+  3 cursed scrolls of teleportation
+  2 blessed potions of full healing
+  a blessed potion of object detection
+  an uncursed potion of sleeping
+  a blessed potion of speed
+  11 potions of holy water
+  6 potions of unholy water
+  an uncursed wand of digging (0:8)
+  an uncursed wand of digging (0:8)
+  an uncursed wand of magic missile (0:5)
+  an uncursed wand of make invisible (0:4)
+  an uncursed wand of sleep (0:6)
+  an uncursed wand of speed monster (0:5)
+  an uncursed wand of striking (0:5)
+  2 uncursed amber stones
+  2 uncursed amethyst stones
+  an uncursed black opal
+  an uncursed diamond
+  3 uncursed emeralds
+  2 uncursed fluorite stones
+  an uncursed garnet stone
+  an uncursed jacinth stone
+  an uncursed jade stone
+  5 uncursed obsidian stones
+  an uncursed ruby
+  2 uncursed worthless pieces of red glass
+  a blessed luckstone
+
+Contents of the oilskin sack:
+  a blessed scroll of scare monster
+
+Disperse the Wizard's attributes:
+
+Background:
+ You were an Enchantress, a level 17 female elven Wizard.
+ You were chaotic, on a mission for Anhur
+ who was opposed by Ptah (lawful) and Thoth (neutral).
+ You were in the endgame, on the Astral Plane.
+ You entered the dungeon 32681 turns ago.
+ There was a new moon in effect when your adventure ended.
+ You had 650538 experience points, 629462 more were needed to attain level 18.
+
+Basics:
+ You had 113 out of 140 hit points.
+ You had 196 out of 264 energy points (spell power).
+ Your armor class was -20.
+ Your wallet was empty.
+ Autopickup was on for '"?!=/', with exceptions.
+
+Final Characteristics:
+ Your strength was 18 (limit:18).
+ Your dexterity was 17 (peak:18, limit:18).
+ Your constitution was 16 (limit:16).
+ Your intelligence was 20 (limit:20).
+ Your wisdom was 18 (peak:19, limit:20).
+ Your charisma was 18 (limit:18).
+
+Final Status:
+ You were not hungry.
+ You were unencumbered.
+ You were wielding a tool.
+
+Final Attributes:
+ You were the Glory of Arioch.
+ You were piously aligned.
+ You were magic-protected.
+ You were fire resistant.
+ You were cold resistant.
+ You were sleep resistant.
+ You were disintegration-resistant.
+ You were shock resistant.
+ You were poison resistant.
+ You saw invisible.
+ You were telepathic.
+ You were warned.
+ You had infravision.
+ You were sensing the presence of monsters.
+ You were invisible to others.
+ You caused conflict.
+ You had teleport control.
+ You could walk on water.
+ You had a small defense bonus (+5).
+ You were warded.
+ You took half physical damage.
+ You took half spell damage.
+ You were very fast.
+ You had reflection.
+ You had free action.
+ Your life would have been saved.
+ You were extremely lucky.
+ You had extra luck.
+ Good luck did not time out for you.
+ You survived after being killed once.
+
+Miscellaneous:
+ You disabled loading of bones levels.
+ Total elapsed playing time was 7 hours, 27 minutes and 33 seconds.
+
+Vanquished creatures:
+    Demogorgon
+    Orcus
+    Yeenoghu
+    Juiblex
+the Wizard of Yendor (6 times)
+    Famine
+    Vlad the Impaler
+  a high cleric
+  a mastodon
+    Medusa
+ an iron golem
+  a storm giant
+  a glass golem
+  4 purple worms
+  3 gray dragons
+  a silver dragon
+  2 red dragons
+  4 white dragons
+ an orange dragon
+  a black dragon
+  2 blue dragons
+  a green dragon
+ 12 minotaurs
+  2 jabberwocks
+the Dark One
+  3 baluchitheria
+  7 Angels
+  a demilich
+  a stone golem
+ an Olog-hai
+  3 Nazgul
+  5 pit fiends
+  3 sandestins
+  2 hell hounds
+  3 displacer beasts
+  2 titanotheres
+  a trapper
+  2 genetic engineers
+  a disenchanter
+ 17 vampire leaders
+ 14 aligned clerics
+  a captain
+  3 liches
+  2 clay golems
+  8 nurses
+  8 ice devils
+  4 nalfeshnees
+  a lurker above
+ an Aleax
+  2 frost giants
+  3 ettins
+  2 golden nagas
+  5 black puddings
+ 18 vampires
+  3 lieutenants
+  a watch captain
+ 23 ghosts
+  a queen bee
+  2 winged gargoyles
+  a mind flayer
+  4 giant mimics
+  a long worm
+  5 zruties
+  a fire giant
+  3 ogre tyrants
+  2 ice trolls
+  5 umber hulks
+  2 flesh golems
+  4 elven monarchs
+  3 doppelgangers
+  2 hezrous
+ 12 bone devils
+  4 large mimics
+  2 wumpuses
+  2 fire vortices
+  4 couatls
+  9 stalkers
+  2 air elementals
+  5 fire elementals
+  5 earth elementals
+  2 water elementals
+  3 hill giants
+  2 giant mummies
+  7 xorns
+ 12 giant zombies
+  2 elf-nobles
+ 11 sergeants
+  4 barbed devils
+  4 vrocks
+  3 salamanders
+  8 wargs
+  a winter wolf
+  3 hell hound pups
+  7 small mimics
+  3 warhorses
+  2 steam vortices
+  3 xans
+  4 ettin mummies
+  2 ogre leaders
+  2 quantum mechanics
+ 10 trolls
+  2 wood golems
+  3 erinyes
+  4 mariliths
+  a shark
+  2 gelatinous cubes
+  4 pyrolisks
+  a large dog
+  3 freezing spheres
+  6 flaming spheres
+  8 large cats
+  3 tigers
+  4 gargoyles
+  2 dwarf rulers
+ 12 tengu
+  6 ochre jellies
+  2 leocrottas
+  2 energy vortices
+  2 mountain centaurs
+  3 stone giants
+  4 elf mummies
+  4 human mummies
+  a red naga
+  a green slime
+  2 pythons
+  2 pit vipers
+  4 cobras
+ 48 wraiths
+  3 carnivorous apes
+ 10 ettin zombies
+  3 leather golems
+  a Grey-elf
+ 41 soldiers
+  4 watchmen
+ an amorous demon
+  6 horned devils
+  3 chameleons
+  6 crocodiles
+  6 giant beetles
+  9 cockatrices
+  3 wolves
+  8 winter wolf cubs
+  2 lynxes
+  a panther
+  a gremlin
+ 19 leprechauns
+  4 orc-captains
+  2 iron piercers
+  2 mumakil
+  8 giant spiders
+  2 scorpions
+  3 horses
+  3 ice vortices
+  5 black lights
+ 31 vampire bats
+  4 forest centaurs
+  6 gnome rulers
+  2 orc mummies
+  3 dwarf mummies
+  3 ogres
+  4 brown puddings
+  8 rust monsters
+  4 owlbears
+  a gold golem
+  a werewolf
+  4 giant eels
+ 14 lizards
+ 10 chickatrices
+  2 dingoes
+  a housecat
+  5 jaguars
+  3 dwarf leaders
+  2 blue jellies
+  2 white unicorns
+  4 gray unicorns
+  2 dust vortices
+ 31 ravens
+  5 plains centaurs
+  2 gnome mummies
+  5 snakes
+  6 water moccasins
+  8 apes
+ 13 human zombies
+  2 rope golems
+  7 soldier ants
+  3 fire ants
+ 15 bugbears
+  4 imps
+  4 lemures
+  4 quasits
+  3 wood nymphs
+  2 water nymphs
+  3 mountain nymphs
+  8 Mordor orcs
+ 10 Uruk-hai
+  4 orc shamans
+  4 rock piercers
+  3 rock moles
+  3 ponies
+  5 fog clouds
+ 10 yellow lights
+  2 shriekers
+  4 violet fungi
+ 17 gnome leaders
+ 14 gnomish wizards
+  3 kobold mummies
+  4 gray oozes
+  a barrow wight
+  7 elf zombies
+ 12 ghouls
+  2 straw golems
+  2 paper golems
+ 12 giant ants
+  8 floating eyes
+  2 kittens
+ 24 dwarves
+  5 homunculi
+  3 kobold leaders
+  2 kobold shamans
+  7 hill orcs
+  3 rothes
+  3 rabid rats
+  a centipede
+ 18 giant bats
+  2 monkeys
+  8 orc zombies
+ 10 dwarf zombies
+  3 werejackals
+  3 iguanas
+ 19 killer bees
+  4 acid blobs
+  9 coyotes
+  a gas spore
+  7 hobbits
+  9 manes
+  a large kobold
+ 18 hobgoblins
+  5 giant rats
+  4 cave spiders
+  a brown mold
+  5 red molds
+ 65 gnomes
+ 12 gnome zombies
+  8 geckos
+ 16 jackals
+  2 foxes
+  3 kobolds
+  8 goblins
+  6 sewer rats
+  a grid bug
+ 10 bats
+  4 lichens
+ 13 kobold zombies
+ 14 newts
+1378 creatures vanquished.
+
+Genocided or extinct species:
+ shocking spheres
+ hobbits
+ dwarves
+ bugbears
+ dwarf leaders
+ dwarf rulers
+ mind flayers
+ master mind flayers
+ liches
+ demiliches
+ master liches
+ arch-liches
+ erinyes (extinct)
+12 species genocided.
+1 species extinct.
+
+Voluntary challenges:
+ You read items or engraved 145 times.
+ You engraved Elbereth 2 times.
+ You genocided 12 types of monsters.
+ You never polymorphed an object.
+ You never changed form.
+ You used 8 wishes (1 for an artifact).
+ You did not violate any of the special Sokoban rules.
+
+Achievements:
+ You attained the rank of Conjurer.
+ You entered the Gnomish Mines.
+ You attained the rank of Thaumaturge.
+ You entered Minetown.
+ You entered a temple.
+ You entered a shop.
+ You entered Sokoban.
+ You attained the rank of Magician.
+ You completed Sokoban.
+ You completed the Gnomish Mines.
+ You entered the Big Room.
+ You defeated Medusa.
+ You learned the tune to open and close the Castle's drawbridge.
+ You attained the rank of Enchantress.
+ You handled the Bell of Opening.
+ You entered Gehennom.
+ You handled the Candelabrum of Invocation.
+ You handled the Book of the Dead.
+ You gained access to Moloch's Sanctum.
+ You reached the Elemental Planes.
+ You reached the Astral Plane.
+ You delivered the Amulet of Yendor.
+ You ascended!
+
+The Elemental Planes:
+   Astral Plane: <- You are here.
+      A temple to Anhur.
+   Plane of Water:
+   Plane of Fire:
+   Plane of Air:
+   Plane of Earth:
+The Dungeons of Doom: levels 1 to 28
+   Level 1:
+      One way stairs up to The Elemental Planes.
+   Level 2:
+      Stairs down to The Gnomish Mines.
+   Level 3:
+   Level 4:
+   Level 5:
+      An altar to Anhur, a sink.
+   Level 6:
+   Level 7:
+   Level 8:
+      Oracle of Delphi.
+   Level 9:
+      Stairs up to Sokoban, level 8.
+   Level 10:
+   Level 11:
+   Level 12:
+      A very big room.
+   Level 13:
+      A shop.
+   Level 14: "floating eye <"
+      A fountain.
+   Level 15:
+      Some altars.
+      Portal to The Quest.
+   Level 16:
+      A primitive area.
+   Level 17:
+   Level 18:
+   Level 19:
+      A temple to Anhur.
+   Level 20:
+      Some fountains.
+   Level 21:
+   Level 22:
+   Level 23:
+      A fountain.
+   Level 24:
+      A fountain, many trees.
+   Level 25:
+   Level 26:
+   Level 27:
+   Level 28:
+      The castle (play notes "BAFDF" to open or close drawbridge).
+      Connection to Gehennom.
+Gehennom: levels 29 to 51
+   Level 29:
+      A temple, many graves.
+      Valley of the Dead.
+   Level 30:
+   Level 31:
+   Level 32:
+   Level 33:
+   Level 34:
+      A fountain.
+   Level 35:
+   Level 36:
+   Level 37:
+      Stairs up to Vlad's Tower, level 36.
+   Level 38:
+   Level 39:
+   Level 40:
+   Level 41:
+   Level 42:
+   Level 43:
+   Level 44:
+   Level 45:
+   Level 46:
+   Level 47:
+   Level 48:
+   Level 49:
+   Level 50:
+   Level 51:
+      A temple, many graves.
+      Moloch's Sanctum.
+The Gnomish Mines: levels 3 to 10
+   Level 3:
+   Level 4:
+   Level 5:
+   Level 6:
+      Many shops, a temple.
+   Level 7:
+   Level 8:
+   Level 9:
+   Level 10:
+      A fountain.
+The Quest: levels 1 to 5
+   Level 1:
+      Completed quest for Neferet the Green.
+   Level 2:
+   Level 3:
+   Level 4:
+   Level 5:
+      A temple to Anhur.
+Sokoban: levels 8 up to 5
+   Level 5:
+      Solved.
+   Level 6:
+      Solved.
+   Level 7:
+      Solved.
+   Level 8:
+      Solved.
+Vlad's Tower: levels 36 up to 34
+   Level 34:
+   Level 35:
+   Level 36:
+
+Goodbye disperse the Demigoddess...
+
+You and Mr. Whiskers
+went to your reward with 1549677 points,
+Magicbane (worth 3500 zorkmids and 8750 points)
+The Eye of the Aethiopica (worth 4000 zorkmids and 10000 points)
+The Master Key of Thievery (worth 3500 zorkmids and 8750 points)
+       5 obsidian stones (worth 1000 zorkmids),
+       3 emeralds (worth 7500 zorkmids),
+       2 amber stones (worth 2000 zorkmids),
+       2 amethyst stones (worth 1200 zorkmids),
+       2 fluorite stones (worth 800 zorkmids),
+       2 worthless pieces of colored glass,
+       1 diamond (worth 4000 zorkmids),
+       1 ruby (worth 3500 zorkmids),
+       1 jacinth stone (worth 3250 zorkmids),
+       1 black opal (worth 2500 zorkmids),
+       1 garnet stone (worth 700 zorkmids),
+       1 jade stone (worth 300 zorkmids),
+       2 amulets of magical breathing (worth 300 zorkmids),
+       1 amulet of life saving (worth 150 zorkmids),
+       1 amulet of guarding (worth 150 zorkmids),
+and 0 pieces of gold, after 32681 moves.
+You were level 17 with a maximum of 140 hit points when you ascended.
