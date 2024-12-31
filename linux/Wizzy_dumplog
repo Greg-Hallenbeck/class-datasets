@@ -1,0 +1,300 @@
+Unix NetHack Version 3.7.0-53 Work-in-progress - last build Apr 17 2022 23:41:34 (02b85442fffe0e2954e411e09df771b56fe27bbc,branch:master).
+
+Game began 2022-05-03 09:17:32, ended 2022-05-03 10:00:36.
+
+WizzyTheWeird, neutral male human Wizard
+
+  -----------------------------------------------------
+  |.............................%...............^...|.|      $
+  |.----------|--.---...----------------------------|.|    *    $
+  |.|-----   |.|--- |...|..........................||.| $        $
+  |.||...| ---.|.|  -...|.............<...............|                **
+  |.||...--|..*..|  ..---..........[...[).[........|^(|              $ **
+  |.||.....|-|-..|  ..|.............*....*.........|..|
+  |.|----..|..|..-  ..---------------------------------          $
+  |.|   |..|..|...  ..................................|               $
+  |.|   |..|..|-----..------------------------------..|      $       * $
+  |.-----..---|   ...%|                                          $  $
+  |..)........|   -.---          *   )                             $*
+  -------------...|.|                                               $  *
+  -------------.$.|.|
+  |......^........|.|                                                  $
+  |.---------------.|
+  |........().....^.|
+  -------------------
+WizzyTheWeird the Thaumaturge  St:9 Dx:13 Co:16 In:16 Wi:9 Ch:10  Neutral S:9064
+Dlvl:13 $:148 HP:0(66) Pw:53(68) AC:3  Xp:9/4117 T:4504  Conf
+
+Latest messages:
+ The spell hits it.
+ You kill it!
+ Where do you want to travel to?
+ (For instructions type a '?')
+ Where do you want to travel to?
+ (For instructions type a '?')
+ You hear a cracking sound.
+ You hear a ripping sound.
+ You hear a clank.
+ You hear a clank.
+ You see here 2 food rations.
+ A cloud of gas puts you to sleep!
+ The combat suddenly awakens you.
+ The blast of frost hits you!
+ One of your diluted potions of fruit juice freezes and shatters!
+ One of your potions called alky djinni freezes and shatters!
+ The blast of frost bounces!
+ The blast of frost hits you!
+ In what direction?
+ The spell misses it.
+ In what direction?
+ The magic missile hits the rothe!
+ You kill the rothe!
+ You see here a rothe corpse.
+ The winter wolf bites!
+ The giant bat misses!
+ The blast of fire hits the winter wolf!
+ The blast of fire hits you!
+ Your cloak smoulders!
+ Your potion of speed boils and explodes!
+ Your knees seem more flexible now.
+ Your potion of sickness boils and explodes!
+ Some of your potions called alky djinni boil and explode!
+ You feel somewhat dizzy.
+ The blast of fire bounces!
+ The blast of fire hits you!
+ Your cloak smoulders further!
+ Your potion of see invisible boils and explodes!
+ Your movements are now unencumbered.
+ One of your potions called alky djinni boils and explodes!
+ One of your scrolls of identify catches fire and burns!
+ Your scroll of create monster catches fire and burns!
+ Your scroll of remove curse catches fire and burns!
+ You die...
+ Do you want your possessions identified? [ynq] (y)
+ Do you want to see your attributes? [ynq] (y)
+ Do you want an account of creatures vanquished? [ynaq] (y)
+ Do you want a list of species genocided? [ynq] (y)
+ Do you want to see your conduct and achievements? [ynq] (y)
+ Do you want to see the dungeon overview? [ynq] (y)
+
+Major events:
+ Turn
+    1: WizzyTheWeird the neutral male human Wizard entered the dungeon
+  401: performed his first genocide (class c)
+  866: attained the rank of Conjurer (level 3)
+ 1256: entered the Gnomish Mines
+ 1758: reached Mine Town
+ 1765: attained the rank of Thaumaturge (level 6)
+ 4504: killed by a blast of fire
+
+Inventory:
+ Coins
+  $ - 148 gold pieces
+ Weapons
+  a - a blessed greased +2 quarterstaff (weapon in hands)
+ Armor
+  F - an uncursed greased +0 dwarvish iron helm (being worn)
+  I - an uncursed greased +0 pair of iron shoes (being worn)
+  l - a blessed greased +0 cloak of invisibility
+  b - an uncursed greased very burnt +0 cloak of magic resistance (being worn)
+  J - a blessed +0 studded leather armor (being worn)
+ Comestibles
+  v - an uncursed slime mold
+  w - 2 uncursed slime molds
+  R - an uncursed cram ration
+  B - 2 uncursed fortune cookies
+  x - an uncursed tripe ration
+  L - an uncursed tripe ration
+  N - an uncursed egg
+ Scrolls
+  U - an uncursed scroll of enchant weapon
+  j - an uncursed scroll of identify
+  C - an uncursed scroll of identify
+  G - a blessed scroll of teleportation
+ Potions
+  Z - an uncursed potion of booze
+  k - a cursed potion of booze
+  g - an uncursed diluted potion of fruit juice
+  h - a blessed potion of gain energy
+  s - an uncursed potion of water
+  W - an uncursed potion of water
+ Rings
+  p - an uncursed ring of polymorph (on left hand)
+  e - an uncursed ring of polymorph control (on right hand)
+  V - an uncursed ring of searching
+  m - an uncursed ring of shock resistance
+ Wands
+  O - a wand of digging (0:4)
+  c - a wand of digging (0:3)
+  S - a wand of polymorph (0:3)
+  H - a wand of striking (0:0)
+  D - a wand of undead turning named noid (0:7)
+ Tools
+  X - an uncursed skeleton key
+  T - an uncursed towel
+  u - a +0 unicorn horn
+ Gems/Stones
+  n - an uncursed worthless piece of black glass
+  E - an uncursed worthless piece of yellow glass
+
+WizzyTheWeird the Wizard's attributes:
+
+Background:
+ You were a Thaumaturge, a level 9 male human Wizard.
+ You were neutral, on a mission for Thoth
+ who was opposed by Ptah (lawful) and Anhur (chaotic).
+ You were in the Gnomish Mines, on level 13.
+ You entered the dungeon 4504 turns ago.
+ There was a new moon in effect when your adventure ended.
+ You had 4117 experience points, 1003 more were needed to attain level 10.
+ Your score was 9064 before end-of-game adjustments.
+
+Basics:
+ You had 0 out of 66 hit points.
+ You had 53 out of 68 energy points (spell power).
+ Your armor class was 3.
+ Your wallet contained 148 zorkmids.
+ Autopickup was off.
+
+Final Characteristics:
+ Your strength was 9 (limit:18/100).
+ Your dexterity was 13 (limit:18).
+ Your constitution was 16 (limit:18).
+ Your intelligence was 16 (limit:18).
+ Your wisdom was 9 (peak:10, limit:18).
+ Your charisma was 10 (limit:18).
+
+Final Status:
+ You were confused.
+ You were not hungry.
+ You were unencumbered.
+ You were wielding a quarterstaff.
+ You had basic skill with quarterstaff and could have enhanced that.
+
+Final Attributes:
+ You were piously aligned.
+ You were magic-protected.
+ You were telepathic.
+ You were warded.
+ You were polymorphing periodically.
+ You had polymorph control.
+ You were very fast.
+ You are dead.
+
+Miscellaneous:
+ You encountered 1 bones level.
+ Total elapsed playing time was 43 minutes and 3 seconds.
+
+Vanquished creatures:
+  a large mimic
+ an ochre jelly
+  2 Grey-elves
+  a chameleon
+  a wolf
+  a leprechaun
+  2 gnome rulers
+  3 owlbears
+  a dwarf leader
+  a white unicorn
+  a raven
+  a snake
+ an imp
+  a rock mole
+ 15 gnome leaders
+  4 gnomish wizards
+  a gray ooze
+  a giant ant
+  a floating eye
+  a kitten
+ 12 dwarves
+  2 homunculi
+  3 hill orcs
+  4 rothes
+  a rabid rat
+  2 giant bats
+ an iguana
+  a gas spore
+  4 hobbits
+  a hobgoblin
+  a giant rat
+  a red mold
+ 34 gnomes
+  a gnome zombie
+  4 geckos
+  9 jackals
+  a fox
+  2 kobolds
+  4 grid bugs
+  4 lichens
+  2 newts
+135 creatures vanquished.
+
+Genocided species:
+ chickatrices
+ cockatrices
+ pyrolisks
+3 species genocided.
+
+Voluntary challenges:
+ You read items or engraved 19 times.
+ You engraved Elbereth 1 time.
+ You genocided 3 types of monsters.
+ You never polymorphed an object.
+ You used no wishes.
+
+Achievements:
+ You entered a shop.
+ You attained the rank of Conjurer.
+ You entered the Gnomish Mines.
+ You entered Minetown.
+ You attained the rank of Thaumaturge.
+ You entered a temple.
+
+The Dungeons of Doom: levels 1 to 5
+   Level 1:
+   Level 2:
+   Level 3:
+      A scroll shop.
+   Level 4:
+      A general store.
+      Stairs down to The Gnomish Mines.
+   Level 5:
+      A fountain.
+      Final resting place for
+         MoonPig-Rog-Orc-Fem-Cha, killed by a bugbear.
+The Gnomish Mines: levels 5 to 13
+   Level 5:
+   Level 6:
+   Level 7:
+   Level 8:
+      Many shops, a temple to Thoth, many fountains.
+   Level 9:
+   Level 10:
+   Level 11:
+   Level 12:
+   Level 13: <- You were here.
+      Final resting place for
+         you, killed by a blast of fire.
+
+Game over:
+                       ----------
+                      /          \
+                     /    REST    \
+                    /      IN      \
+                   /     PEACE      \
+                  /                  \
+                  |  WizzyTheWeird   |
+                  |      148 Au      |
+                  |   killed by a    |
+                  |  blast of fire   |
+                  |                  |
+                  |                  |
+                  |       2022       |
+                 *|     *  *  *      | *
+        _________)/\\_//(\/(/\)/\//\/|_)_______
+
+Goodbye WizzyTheWeird the Wizard...
+
+You died in The Gnomish Mines on dungeon level 13 with 9050 points,
+and 148 pieces of gold, after 4504 moves.
+You were level 9 with a maximum of 66 hit points when you died.
