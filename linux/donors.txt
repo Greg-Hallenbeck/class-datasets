@@ -21,11 +21,9 @@ Allie Rodriguez	100	corporate	6   Jul
 Faustino Porter	5	personal	15 Jul
 Jed Davila	10	personal	22 Jul
 Floyd Norris	25	corporate	8 Aug
-
 Tia Frank	10	personal	15     Aug
 Cheri Pham	50	corporate	11    Sep
 Ernestine Patel	100	personal	25 Sep
-	personal	25 Sep
 Lorie Rocha	25000	personal	11   Oct
 Harriet Murphy	10	personal	19 Oct
 Stacy Miller Yang	10		22   Oct
@@ -42,8 +40,6 @@ Alexandra Mcconnell	100	personal	25 Jun
 Gracie Vaughn	25000	corporate	27 Aug
 Gabriela Boone	5	personal	29    Aug
 Lavern Moon	5	personal	5 Sep
-	personal		9 Sep
-			24 Sep
 Monique Lawson	5	personal	25 Sep
 Felecia Mahoney	10	personal	26   Sep
 Sheryl Amy Arias	10		21 Oct
@@ -53,4 +49,3 @@ Janelle Riddle	30	corporate	19 Nov
 Broderick Vazquez	45	corporate	27 Nov
 Kristopher Bradshaw	10	corporate	1      Dec
 Marcelo Wang	30	personal	17 Dec
-			26   Dec
