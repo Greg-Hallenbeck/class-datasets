@@ -1,50 +1,56 @@
-Dorian Hendrix	20
-Porfirio Buchanan	500
-Pete Hester	25
-Jerome Mccullough	5
-Morton Dalton	5
-Lee Gonzalez	30
-Genaro Lawrence	200
-Alfredo Mercer	15
-Cary Eaton	4000
-Glen Gonzales	20
-Levi Maldonado	5
-Kristi Durham	5
-Burl Mcmahon	5
-Arnoldo Xavier Robbins	20
-Donn David Decker	25
-Leland Klein	5
-Brant Barajas	20
-Terra Xiomara Mata	50
-Allie Rodriguez	100
-Faustino Porter	5
-Jed Davila	10
-Floyd Norris	25
-Tia Frank	10
-Cheri Pham	50
-Ernestine Patel	100
-Lorie Rocha	25000
-Harriet Murphy	10
-Stacy Miller-Yang	10
-Marva Allison Rowe	5
-Edward Cooper	20
-Ferdinand Shah	35
-Mohammed Mitchell	50
-Julianne Wade	20
-Ursula Hawkins	150
-Lucy Pace	25
-Cedric Horton	25
-Dave Mack	50
-Alexandra Mcconnell	100
-Gracie Vaughn	25000
-Gabriela Boone	5
-Lavern Moon	5
-Monique Lawson	5
-Felecia Mahoney	10
-Sheryl Amy Arias	10
-Helga Walker	25
-Lonny Short	20
-Janelle Riddle	30
-Broderick Vazquez	45
-Kristopher Bradshaw	10
-Marcelo Wang	30
+NAME	DONATION	TYPE	DATE
+Dorian Hendrix	20	personal	21    Jan
+Porfirio Buchanan	500	personal	30 Dec
+Pete Hester	25	personal	15 Feb
+Jerome Mccullough	5	personal	10 Jan
+Morton Dalton	5	corporate	26     Jan
+Lee Gonzalez	30	corporate	11    Feb
+Genaro Lawrence	200	corporate	12 Feb
+Alfredo Mercer	15	personal	15       Feb
+Cary Eaton	4000	personal	27   Feb
+Glen Gonzales	20	personal	15   Mar
+Levi Maldonado	5	corporate	18   Mar
+Kristi Durham	5	corporate	31   Mar
+Burl Mcmahon	5	personal	29 Apr
+Arnoldo Xavier Robbins	20	personal	23 May
+Donn David Decker	25	personal	31 May
+Leland Klein	5	personal	18 Jun
+Brant Barajas	20	corporate	19 Jun
+Terra Xiomara Mata	50		5 Jul
+Allie Rodriguez	100	corporate	6   Jul
+Faustino Porter	5	personal	15 Jul
+Jed Davila	10	personal	22 Jul
+Floyd Norris	25	corporate	8 Aug
+
+Tia Frank	10	personal	15     Aug
+Cheri Pham	50	corporate	11    Sep
+Ernestine Patel	100	personal	25 Sep
+	personal	25 Sep
+Lorie Rocha	25000	personal	11   Oct
+Harriet Murphy	10	personal	19 Oct
+Stacy Miller Yang	10		22   Oct
+Marva Allison Rowe	5		7 Jan
+Edward Cooper	20	personal	28    Jan
+Ferdinand Shah	35	personal	25 Feb
+Mohammed Mitchell	50		1 Apr
+Julianne Wade	20	corporate	7 Apr
+Ursula Hawkins	150	corporate	18 Apr
+Lucy Pace	25	personal	12 May
+Cedric Horton	25	personal	14 May
+Dave Mack	50	personal	6 Jun
+Alexandra Mcconnell	100	personal	25 Jun
+Gracie Vaughn	25000	corporate	27 Aug
+Gabriela Boone	5	personal	29    Aug
+Lavern Moon	5	personal	5 Sep
+	personal		9 Sep
+			24 Sep
+Monique Lawson	5	personal	25 Sep
+Felecia Mahoney	10	personal	26   Sep
+Sheryl Amy Arias	10		21 Oct
+Helga Walker	25	personal	30 Oct
+Lonny Short	20	corporate	7 Nov
+Janelle Riddle	30	corporate	19 Nov
+Broderick Vazquez	45	corporate	27 Nov
+Kristopher Bradshaw	10	corporate	1      Dec
+Marcelo Wang	30	personal	17 Dec
+			26   Dec
