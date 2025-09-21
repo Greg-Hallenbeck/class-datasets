@@ -1,0 +1,39 @@
+CREATE TABLE Movies
+(
+  title TEXT,
+  year INT,
+  rating TEXT,
+  runtime INT
+);
+
+INSERT INTO Movies VALUES
+('Jurassic Park','1993','PG-13','127'),
+('The Lost World: Jurassic Park','1997','PG-13','129'),
+('Jurassic Park III','2001','PG-13','92'),
+('Jurassic World','2015','PG-13','124'),
+('Jurassic World: Fallen Kingdom','2018','PG-13','128'),
+('Jurassic World Dominion','2022','PG-13','157'),
+('Midnight Cowboy','1969','R','113'),
+('The Dark Crystal','1982','PG','93'),
+('Showgirls','1995','NC-17','131'),
+('Requiem for a Dream','2000','NC-17','102'),
+('Dune','2021','PG-13','155'),
+('Winnie the Pooh','2011','G','63'),
+('The Many Adventures of Winnie the Pooh','1977','G','74'),
+('Winnie the Pooh: Blood and Honey','2023','NR','84'),
+('WALL-E','2008','G','98'),
+('Ratatouille','2007','G','111'),
+('Toy Story','1995','G','81'),
+('Shrek','2001','PG','90'),
+('The Princess Bride','1987','PG','98'),
+('Clue','1985','PG','94'),
+('Harry Potter and the Sorcerer''s Stone','2001','PG','152'),
+('Kpop Demon Hunters','2025','PG','95'),
+('Wicked','2024','PG','160'),
+('Lord of the Rings: The Fellowship of the Ring','2001','PG-13','178'),
+('Black Panther','2018','PG-13','134'),
+('Black Panther: Wakanda Forever','2022','PG-13','161'),
+('Hook','1991','PG','142'),
+('Hackers','1995','PG-13','105'),
+('Spider-Man: Into the Spider-Verse','2018','PG','117'),
+('Spider-Man: Across the Spider-Verse','2023','PG','140');
