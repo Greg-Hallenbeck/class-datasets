@@ -13,6 +13,7 @@ INSERT INTO Movies VALUES
 ('Jurassic World','2015','PG-13','124'),
 ('Jurassic World: Fallen Kingdom','2018','PG-13','128'),
 ('Jurassic World Dominion','2022','PG-13','157'),
+('Back to the Jurassic','2012','PG','86'),
 ('Midnight Cowboy','1969','R','113'),
 ('The Dark Crystal','1982','PG','93'),
 ('Showgirls','1995','NC-17','131'),
