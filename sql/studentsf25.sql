@@ -1,0 +1,41 @@
+CREATE TABLE StudentsF25
+(
+  buid BIGINT PRIMARY KEY,
+  firstname TEXT,
+  lastname TEXT,
+  major TEXT,
+  minor TEXT,
+  gpa FLOAT,
+  birthday DATE
+);
+
+INSERT INTO Students VALUES
+('12608704','Stacey','Chen','Math','DiDa','3.2','8/5/2006'),
+('44800020','Yasmine','Nikola','Psychology','Math','3.9','9/1/2004'),
+('65904496','Constance','Finnur','Psychology','Economics','3.10','12/3/2003'),
+('17547484','Miguel','Sanchez','Psychology','DiDa','3.43','1/12/2005'),
+('56822093','Shawn','Owens','Economics','DiDa','3.3','9/9/2004'),
+('71887704','Yesenia','Mendez','Economics','DiDa','2.60','5/23/2005'),
+('51788483','Indra','Krishnasamy','Economics','Math','3.00','6/5/2006'),
+('27593211','Peng','Qiu','Economics','nan','2.64','8/8/2006'),
+('60278464','Jong','Yoon','Psychology','Biology','2.54','7/22/2005'),
+('12064663','Nahom','Eskinder','Psychology','nan','3.71','8/12/2004'),
+('45359754','Talia','Hashim','Biology','English','3.9','10/21/2004'),
+('65677574','Haleema','Nosrat','Biology','Math','2.73','4/1/2003'),
+('49595648','Laila','Kowalczyk','Math','nan','3.38','11/2/2002'),
+('51196721','Abigail','Park','Psychology','nan','3.61','1/21/2005'),
+('23124583','Felix','Zielinski','Art & Design','nan','3.5','12/23/2006'),
+('85665316','Charlie','Garcia','Psychology','nan','3.89','12/9/2002'),
+('26900833','Justin','Yang','Art & Design','nan','3.98','10/27/2001'),
+('52939787','Lewis','O''Sullivan','Art & Design','DiDa','1.33','10/21/2004'),
+('41204760','Harley','Felicie','English','DiDa','3.45','4/2/2004'),
+('19856554','Abina','Malak','English','Art & Design','3.62','12/7/2005'),
+('36141004','Fatima','Guitierrez','English','Economics','3.21','12/9/2006'),
+('10495505','Owen','Lewis','English','nan','3.54','9/24/2003'),
+('66903154','Farhan','Powell','Psychology','nan','2.80','5/9/2006'),
+('49687041','Alistair','Boone','Psychology','Economics','2.37','12/15/2004'),
+('26618430','Khadija','Ganesan','Biology','English','3.48','10/27/2003'),
+('81011280','Saleem','Karim','Biology','English','2.5','1/9/2002'),
+('96163005','Tristan','Mendez','Biology','nan','3.20','4/24/2007'),
+('23665016','Jeffrey','Crawford','English','DiDa','2.84','5/9/2006'),
+('87649183','Ciaran','Jones','English','nan','3.44','7/1/2004');
