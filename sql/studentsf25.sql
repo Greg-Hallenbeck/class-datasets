@@ -9,7 +9,7 @@ CREATE TABLE StudentsF25
   birthday DATE
 );
 
-INSERT INTO Students VALUES
+INSERT INTO StudentsF25 VALUES
 ('12608704','Stacey','Chen','Math','DiDa','3.2','8/5/2006'),
 ('44800020','Yasmine','Nikola','Psychology','Math','3.9','9/1/2004'),
 ('65904496','Constance','Finnur','Psychology','Economics','3.10','12/3/2003'),
