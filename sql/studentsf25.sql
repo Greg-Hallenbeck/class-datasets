@@ -38,4 +38,5 @@ INSERT INTO StudentsF25 VALUES
 ('81011280','Saleem','Karim','Biology','English','2.5','1/9/2002'),
 ('96163005','Tristan','Mendez','Biology','nan','3.20','4/24/2007'),
 ('23665016','Jeffrey','Crawford','English','DiDa','2.84','5/9/2006'),
-('87649183','Ciaran','Jones','English','nan','3.44','7/1/2004');
+('87649183','Ciaran','Jones','English','nan','3.44','7/1/2004'),
+('58992013','Alice','Hong','Political Science','nan','3.85','7/1/2005');
