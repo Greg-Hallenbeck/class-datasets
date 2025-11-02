@@ -1,0 +1,536 @@
+state,fullname,lastname,username,party,position
+TN,Lamar Alexander,Alexander,SenAlexander,R,senator
+WI,Tammy Baldwin,Baldwin,SenatorBaldwin,D,senator
+WY,John Barrasso,Barrasso,SenJohnBarrasso,R,senator
+CO,Michael F. Bennet,Bennet,SenatorBennet,D,senator
+TN,Marsha Blackburn,Blackburn,MarshaBlackburn,R,senator
+CT,Richard Blumenthal,Blumenthal,SenBlumenthal,D,senator
+MO,Roy Blunt,Blunt,RoyBlunt,R,senator
+NJ,Cory A. Booker,Booker,SenBooker,D,senator
+AR,John Boozman,Boozman,JohnBoozman,R,senator
+IN,Mike Braun,Braun,SenatorBraun,R,senator
+OH,Sherrod Brown,Brown,SenSherrodBrown,D,senator
+NC,Richard Burr,Burr,SenatorBurr,R,senator
+WA,Maria Cantwell,Cantwell,SenatorCantwell,D,senator
+WV,Shelley Moore Capito,Capito,SenCapito,R,senator
+MD,Benjamin L. Cardin,Cardin,SenatorCardin,D,senator
+DE,Thomas R. Carper,Carper,SenatorCarper,D,senator
+PA,Robert P. Casey,Casey,SenBobCasey,D,senator
+LA,Bill Cassidy,Cassidy,SenBillCassidy,R,senator
+ME,Susan M. Collins,Collins,SenatorCollins,R,senator
+DE,Christopher A. Coons,Coons,ChrisCoons,D,senator
+TX,John Cornyn,Cornyn,JohnCornyn,R,senator
+AR,Tom Cotton,Cotton,SenTomCotton,R,senator
+ND,Kevin Cramer,Cramer,SenKevinCramer,R,senator
+ID,Mike Crapo,Crapo,MikeCrapo,R,senator
+TX,Ted Cruz,Cruz,SenTedCruz,R,senator
+MT,Steve Daines,Daines,SteveDaines,R,senator
+IL,Tammy Duckworth,Duckworth,SenDuckworth,D,senator
+IL,Richard J. Durbin,Durbin,SenatorDurbin,D,senator
+WY,Michael B. Enzi,Enzi,SenatorEnzi,R,senator
+IA,Joni Ernst,Ernst,SenJoniErnst,R,senator
+CA,Dianne Feinstein,Feinstein,SenFeinstein,D,senator
+NE,Deb Fischer,Fischer,SenatorFischer,R,senator
+CO,Cory Gardner,Gardner,SenCoryGardner,R,senator
+NY,Kirsten E. Gillibrand,Gillibrand,gillibrandny,D,senator
+SC,Lindsey Graham,Graham,LindseyGrahamSC,R,senator
+IA,Chuck Grassley,Grassley,ChuckGrassley,R,senator
+CA,Kamala D. Harris,Harris,SenKamalaHarris,D,senator
+NH,Margaret Wood Hassan,Hassan,SenatorHassan,D,senator
+MO,Josh Hawley,Hawley,SenHawleyPress,R,senator
+NM,Martin Heinrich,Heinrich,MartinHeinrich,D,senator
+HI,Mazie K. Hirono,Hirono,maziehirono,D,senator
+ND,John Hoeven,Hoeven,SenJohnHoeven,R,senator
+MD,Chris Van Hollen,Van Hollen,ChrisVanHollen,D,senator
+MS,Cindy Hyde-Smith,Hyde-Smith,SenHydeSmith,R,senator
+OK,James M. Inhofe,Inhofe,JimInhofe,R,senator
+GA,Johnny Isakson,Isakson,SenatorIsakson,R,senator
+WI,Ron Johnson,Johnson,SenRonJohnson,R,senator
+AL,Doug Jones,Jones,SenDougJones,D,senator
+VA,Tim Kaine,Kaine,timkaine,D,senator
+LA,John Kennedy,Kennedy,SenJohnKennedy,R,senator
+ME,Angus S. King,King,SenAngusKing,I,senator
+MN,Amy Klobuchar,Klobuchar,SenAmyKlobuchar,D,senator
+OK,James Lankford,Lankford,SenatorLankford,R,senator
+VT,Patrick J. Leahy,Leahy,SenatorLeahy,D,senator
+UT,Mike Lee,Lee,SenMikeLee,R,senator
+WV,Joe Manchin,Manchin,Sen_JoeManchin,D,senator
+MA,Edward J. Markey,Markey,SenMarkey,D,senator
+NV,Catherine Cortez Masto,Cortez Masto,SenCortezMasto,D,senator
+KY,Mitch McConnell,McConnell,SenateMajLdr,R,senator
+AZ,Martha McSally,McSally,SenMcSallyAZ,R,senator
+NJ,Robert Menendez,Menendez,SenatorMenendez,D,senator
+OR,Jeff Merkley,Merkley,SenJeffMerkley,D,senator
+KS,Jerry Moran,Moran,JerryMoran,R,senator
+AK,Lisa Murkowski,Murkowski,lisamurkowski,R,senator
+CT,Christopher Murphy,Murphy,SenMurphyOffice,D,senator
+WA,Patty Murray,Murray,PattyMurray,D,senator
+KY,Rand Paul,Paul,RandPaul,R,senator
+GA,David Perdue,Perdue,sendavidperdue,R,senator
+MI,Gary C. Peters,Peters,SenGaryPeters,D,senator
+OH,Rob Portman,Portman,senrobportman,R,senator
+RI,Jack Reed,Reed,SenJackReed,D,senator
+ID,James E. Risch,Risch,SenatorRisch,R,senator
+KS,Pat Roberts,Roberts,SenPatRoberts,R,senator
+UT,Mitt Romney,Romney,SenatorRomney,R,senator
+NV,Jacky Rosen,Rosen,SenJackyRosen,D,senator
+SD,Mike Rounds,Rounds,SenatorRounds,R,senator
+FL,Marco Rubio,Rubio,SenRubioPress,R,senator
+VT,Bernard Sanders,Sanders,SenSanders,I,senator
+NE,Ben Sasse,Sasse,SenSasse,R,senator
+HI,Brian Schatz,Schatz,SenBrianSchatz,D,senator
+NY,Charles E. Schumer,Schumer,SenSchumer,D,senator
+FL,Rick Scott,Scott,SenRickScott,R,senator
+SC,Tim Scott,Scott,SenatorTimScott,R,senator
+NH,Jeanne Shaheen,Shaheen,SenatorShaheen,D,senator
+AL,Richard C. Shelby,Shelby,SenShelby,R,senator
+AZ,Kyrsten Sinema,Sinema,SenatorSinema,D,senator
+MN,Tina Smith,Smith,SenTinaSmith,D,senator
+MI,Debbie Stabenow,Stabenow,SenStabenow,D,senator
+AK,Dan Sullivan,Sullivan,SenDanSullivan,R,senator
+MT,Jon Tester,Tester,SenatorTester,D,senator
+SD,John Thune,Thune,SenJohnThune,R,senator
+NC,Thom Tillis,Tillis,SenThomTillis,R,senator
+PA,Patrick J. Toomey,Toomey,SenToomey,R,senator
+NM,Tom Udall,Udall,SenatorTomUdall,D,senator
+VA,Mark R. Warner,Warner,MarkWarner,D,senator
+MA,Elizabeth Warren,Warren,SenWarren,D,senator
+RI,Sheldon Whitehouse,Whitehouse,SenWhitehouse,D,senator
+MS,Roger F. Wicker,Wicker,SenatorWicker,R,senator
+OR,Ron Wyden,Wyden,RonWyden,D,senator
+IN,Todd Young,Young,SenToddYoung,R,senator
+AK,Don Young,Young,repdonyoung,R,representative
+AL,Bradley Byrne,Byrne,RepByrne,R,representative
+AL,Martha Roby,Roby,RepMarthaRoby,R,representative
+AL,Mike Rogers,Rogers,RepMikeRogersAL,R,representative
+AL,Robert B. Aderholt,Aderholt,Robert_Aderholt,R,representative
+AL,Mo Brooks,Brooks,RepMoBrooks,R,representative
+AL,Gary J. Palmer,Palmer,USRepGaryPalmer,R,representative
+AL,Terri A. Sewell,Sewell,RepTerriSewell,D,representative
+AR,"Eric A. ""Rick"" Crawford",Crawford,RepRickCrawford,R,representative
+AR,J. French Hill,Hill,RepFrenchHill,R,representative
+AR,Steve Womack,Womack,rep_stevewomack,R,representative
+AR,Bruce Westerman,Westerman,RepWesterman,R,representative
+AZ,Tom O'Halleran,O'Halleran,RepOHalleran,D,representative
+AZ,Ann Kirkpatrick,Kirkpatrick,RepKirkpatrick,D,representative
+AZ,Raúl M. Grijalva,Grijalva,RepRaulGrijalva,D,representative
+AZ,Paul A. Gosar,Gosar,RepGosar,R,representative
+AZ,Andy Biggs,Biggs,RepAndyBiggsAZ,R,representative
+AZ,David Schweikert,Schweikert,RepDavid,R,representative
+AZ,Ruben Gallego,Gallego,RepRubenGallego,D,representative
+AZ,Debbie Lesko,Lesko,RepDLesko,R,representative
+AZ,Greg Stanton,Stanton,RepGregStanton,D,representative
+CA,Doug LaMalfa,LaMalfa,RepLaMalfa,R,representative
+CA,Jared Huffman,Huffman,RepHuffman,D,representative
+CA,John Garamendi,Garamendi,RepGaramendi,D,representative
+CA,Tom McClintock,McClintock,RepMcClintock,R,representative
+CA,Mike Thompson,Thompson,RepThompson,D,representative
+CA,Doris O. Matsui,Matsui,DorisMatsui,D,representative
+CA,Ami Bera,Bera,RepBera,D,representative
+CA,Paul Cook,Cook,RepPaulCook,R,representative
+CA,Jerry McNerney,McNerney,RepMcNerney,D,representative
+CA,Josh Harder,Harder,RepJoshHarder,D,representative
+CA,Mark DeSaulnier,DeSaulnier,RepDeSaulnier,D,representative
+CA,Nancy Pelosi,Pelosi,SpeakerPelosi,D,representative
+CA,Barbara Lee,Lee,RepBarbaraLee,D,representative
+CA,Jackie Speier,Speier,RepSpeier,D,representative
+CA,Eric Swalwell,Swalwell,RepSwalwell,D,representative
+CA,Jim Costa,Costa,RepJimCosta,D,representative
+CA,Ro Khanna,Khanna,RepRoKhanna,D,representative
+CA,Anna G. Eshoo,Eshoo,RepAnnaEshoo,D,representative
+CA,Zoe Lofgren,Lofgren,RepZoeLofgren,D,representative
+CA,Jimmy Panetta,Panetta,RepJimmyPanetta,D,representative
+CA,TJ Cox,Cox,RepTjCox,D,representative
+CA,Devin Nunes,Nunes,RepDevinNunes,R,representative
+CA,Kevin McCarthy,McCarthy,GOPLeader,R,representative
+CA,Salud O. Carbajal,Carbajal,RepCarbajal,D,representative
+CA,Katie Hill,Hill,RepKatieHill,D,representative
+CA,Julia Brownley,Brownley,RepBrownley,D,representative
+CA,Judy Chu,Chu,RepJudyChu,D,representative
+CA,Adam B. Schiff,Schiff,RepAdamSchiff,D,representative
+CA,Tony Cárdenas,Cárdenas,RepCardenas,D,representative
+CA,Brad Sherman,Sherman,BradSherman,D,representative
+CA,Pete Aguilar,Aguilar,RepPeteAguilar,D,representative
+CA,Grace F. Napolitano,Napolitano,gracenapolitano,D,representative
+CA,Ted Lieu,Lieu,RepTedLieu,D,representative
+CA,Jimmy Gomez,Gomez,RepJimmyGomez,D,representative
+CA,Norma J. Torres,Torres,NormaJTorres,D,representative
+CA,Raul Ruiz,Ruiz,Dr_RaulRuiz,D,representative
+CA,Karen Bass,Bass,RepKarenBass,D,representative
+CA,Linda T. Sánchez,Sánchez,RepLindaSanchez,D,representative
+CA,Gilbert Ray Jr. Cisneros,Cisneros,RepGilCisneros,D,representative
+CA,Lucille Roybal-Allard,Roybal-Allard,RepRoybalAllard,D,representative
+CA,Mark Takano,Takano,RepMarkTakano,D,representative
+CA,Ken Calvert,Calvert,KenCalvert,R,representative
+CA,Maxine Waters,Waters,RepMaxineWaters,D,representative
+CA,Nanette Diaz Barragán,Barragán,RepBarragan,D,representative
+CA,Katie Porter,Porter,RepKatiePorter,D,representative
+CA,J. Luis Correa,Correa,RepLouCorrea,D,representative
+CA,Alan S. Lowenthal,Lowenthal,RepLowenthal,D,representative
+CA,Harley Rouda,Rouda,RepHarley,D,representative
+CA,Mike Levin,Levin,RepMikeLevin,D,representative
+CA,Duncan Hunter,Hunter,NA,R,representative
+CA,Juan Vargas,Vargas,RepJuanVargas,D,representative
+CA,Scott H. Peters,Peters,RepScottPeters,D,representative
+CA,Susan A. Davis,Davis,RepSusanDavis,D,representative
+CO,Diana DeGette,DeGette,RepDianaDeGette,D,representative
+CO,Joe Neguse,Neguse,RepJoeNeguse,D,representative
+CO,Scott R. Tipton,Tipton,RepTipton,R,representative
+CO,Ken Buck,Buck,RepKenBuck,R,representative
+CO,Doug Lamborn,Lamborn,RepDLamborn,R,representative
+CO,Jason Crow,Crow,RepJasonCrow,D,representative
+CO,Ed Perlmutter,Perlmutter,RepPerlmutter,D,representative
+CT,John B. Larson,Larson,RepJohnLarson,D,representative
+CT,Joe Courtney,Courtney,RepJoeCourtney,D,representative
+CT,Rosa L. DeLauro,DeLauro,rosadelauro,D,representative
+CT,James A. Himes,Himes,jahimes,D,representative
+CT,Jahana Hayes,Hayes,RepJahanaHayes,D,representative
+DE,Lisa Blunt Rochester,Blunt Rochester,RepLBR,D,representative
+FL,Matt Gaetz,Gaetz,RepMattGaetz,R,representative
+FL,Neal P. Dunn,Dunn,DrNealDunnFL2,R,representative
+FL,Ted S. Yoho,Yoho,RepTedYoho,R,representative
+FL,John H. Rutherford,Rutherford,RepRutherfordFL,R,representative
+FL,Al Lawson,Lawson,RepAlLawsonJr,D,representative
+FL,Michael Waltz,Waltz,RepMichaelWaltz,R,representative
+FL,Stephanie N. Murphy,Murphy,RepStephMurphy,D,representative
+FL,Bill Posey,Posey,congbillposey,R,representative
+FL,Darren Soto,Soto,RepDarrenSoto,D,representative
+FL,Val Butler Demings,Demings,RepValDemings,D,representative
+FL,Daniel Webster,Webster,RepWebster,R,representative
+FL,Gus M. Bilirakis,Bilirakis,RepGusBilirakis,R,representative
+FL,Charlie Crist,Crist,RepCharlieCrist,D,representative
+FL,Kathy Castor,Castor,USRepKCastor,D,representative
+FL,Dennis A. Ross,Ross,NA,R,representative
+FL,Vern Buchanan,Buchanan,VernBuchanan,R,representative
+FL,W. Gregory Steube,Steube,RepGregSteube,R,representative
+FL,Brian J. Mast,Mast,RepBrianMast,R,representative
+FL,Francis Rooney,Rooney,RepRooney,R,representative
+FL,Alcee L. Hastings,Hastings,RepHastingsFL,D,representative
+FL,Lois Frankel,Frankel,RepLoisFrankel,D,representative
+FL,Theodore E. Deutch,Deutch,RepTedDeutch,D,representative
+FL,Debbie Wasserman Schultz,Schultz,RepDWStweets,D,representative
+FL,Frederica S. Wilson,Wilson,RepWilson,D,representative
+FL,Mario Diaz-Balart,Diaz-Balart,MarioDB,R,representative
+FL,Debbie Mucarsel-Powell,Mucarsel-Powell,RepDMP,D,representative
+FL,Donna E. Shalala,Shalala,RepShalala,D,representative
+GA,"Earl L. ""Buddy"" Carter",Carter,RepBuddyCarter,R,representative
+GA,Sanford D. Bishop,Bishop,SanfordBishop,D,representative
+GA,A. Drew Ferguson,Ferguson,RepDrewFerguson,R,representative
+GA,"Henry C. ""Hank"" Johnson Jr.",Jr.,RepHankJohnson,D,representative
+GA,John Lewis,Lewis,repjohnlewis,D,representative
+GA,Lucy McBath,McBath,RepLucyMcBath,D,representative
+GA,Rob Woodall,Woodall,RepRobWoodall,R,representative
+GA,Austin Scott,Scott,AustinScottGA08,R,representative
+GA,Doug Collins,Collins,RepDougCollins,R,representative
+GA,Jody B. Hice,Hice,CongressmanHice,R,representative
+GA,Barry Loudermilk,Loudermilk,RepLoudermilk,R,representative
+GA,Rick W. Allen,Allen,RepRickAllen,R,representative
+GA,David Scott,Scott,repdavidscott,D,representative
+GA,Tom Graves,Graves,RepTomGraves,R,representative
+HI,Ed Case,Case,RepEdCase,D,representative
+HI,Tulsi Gabbard,Gabbard,TulsiPress,D,representative
+IA,Abby Finkenauer,Finkenauer,RepFinkenauer,D,representative
+IA,David Loebsack,Loebsack,daveloebsack,D,representative
+IA,Cynthia Axne,Axne,RepCindyAxne,D,representative
+IA,Steve King,King,stevekingia,R,representative
+ID,Russ Fulcher,Fulcher,RepRussFulcher,R,representative
+ID,Michael K. Simpson,Simpson,CongMikeSimpson,R,representative
+IL,Bobby L. Rush,Rush,RepBobbyRush,D,representative
+IL,Robin L. Kelly,Kelly,RepRobinKelly,D,representative
+IL,Daniel Lipinski,Lipinski,RepLipinski,D,representative
+IL,"Jesús ""Chuy"" García",García,RepChuyGarcia,D,representative
+IL,Mike Quigley,Quigley,RepMikeQuigley,D,representative
+IL,Sean Casten,Casten,RepCasten,D,representative
+IL,Danny K. Davis,Davis,RepDannyDavis,D,representative
+IL,Raja Krishnamoorthi,Krishnamoorthi,CongressmanRaja,D,representative
+IL,"Janice ""Jan"" D. Schakowsky",Schakowsky,janschakowsky,D,representative
+IL,Bradley Scott Schneider,Schneider,RepSchneider,D,representative
+IL,Bill Foster,Foster,RepBillFoster,D,representative
+IL,Mike Bost,Bost,RepBost,R,representative
+IL,Rodney Davis,Davis,RodneyDavis,R,representative
+IL,Lauren Underwood,Underwood,RepUnderwood,D,representative
+IL,John Shimkus,Shimkus,RepShimkus,R,representative
+IL,Adam Kinzinger,Kinzinger,RepKinzinger,R,representative
+IL,Cheri Bustos,Bustos,RepCheri,D,representative
+IL,Darin LaHood,LaHood,RepLaHood,R,representative
+IN,Peter J. Visclosky,Visclosky,RepVisclosky,D,representative
+IN,Jackie Walorski,Walorski,RepWalorski,R,representative
+IN,Jim Banks,Banks,RepJimBanks,R,representative
+IN,James Baird,Baird,RepJimBaird,R,representative
+IN,Susan W. Brooks,Brooks,SusanWBrooks,R,representative
+IN,Greg Pence,Pence,RepGregPence,R,representative
+IN,André Carson,Carson,RepAndreCarson,D,representative
+IN,Larry Bucshon,Bucshon,RepLarryBucshon,R,representative
+IN,Trey Hollingsworth,Hollingsworth,RepTrey,R,representative
+KS,Roger W. Marshall,Marshall,RogerMarshallMD,R,representative
+KS,Steven Watkins,Watkins,Steve4Kansas,R,representative
+KS,Sharice Davids,Davids,RepDavids,D,representative
+KS,Ron Estes,Estes,RepRonEstes,R,representative
+KY,James Comer,Comer,jamescomer,R,representative
+KY,Brett Guthrie,Guthrie,RepGuthrie,R,representative
+KY,John A. Yarmuth,Yarmuth,RepJohnYarmuth,D,representative
+KY,Thomas Massie,Massie,RepThomasMassie,R,representative
+KY,Harold Rogers,Rogers,RepHalRogers,R,representative
+KY,Andy Barr,Barr,RepAndyBarr,R,representative
+LA,Steve Scalise,Scalise,SteveScalise,R,representative
+LA,Cedric L. Richmond,Richmond,RepRichmond,D,representative
+LA,Clay Higgins,Higgins,RepClayHiggins,R,representative
+LA,Mike Johnson,Johnson,RepMikeJohnson,R,representative
+LA,Ralph Lee Abraham,Abraham,RepAbraham,R,representative
+LA,Garret Graves,Graves,RepGarretGraves,R,representative
+ME,Chellie Pingree,Pingree,chelliepingree,D,representative
+ME,Jared Golden,Golden,RepGolden,D,representative
+MD,Andy Harris,Harris,RepAndyHarrisMD,R,representative
+MD,C. A. Dutch Ruppersberger,Ruppersberger,Call_Me_Dutch,D,representative
+MD,John P. Sarbanes,Sarbanes,RepSarbanes,D,representative
+MD,Anthony G. Brown,Brown,RepAnthonyBrown,D,representative
+MD,Steny H. Hoyer,Hoyer,LeaderHoyer,D,representative
+MD,David Trone,Trone,RepDavidTrone,D,representative
+MD,Elijah Cummings,Cummings,RepCummings,D,representative
+MD,Jamie Raskin,Raskin,RepRaskin,D,representative
+MA,Richard E. Neal,Neal,RepRichardNeal,D,representative
+MA,James P. McGovern,McGovern,RepMcGovern,D,representative
+MA,Lori Trahan,Trahan,RepLoriTrahan,D,representative
+MA,Joseph P. Kennedy,Kennedy,RepJoeKennedy,D,representative
+MA,Katherine M. Clark,Clark,RepKClark,D,representative
+MA,Seth Moulton,Moulton,teammoulton,D,representative
+MA,Ayanna Pressley,Pressley,RepPressley,D,representative
+MA,Stephen F. Lynch,Lynch,RepStephenLynch,D,representative
+MA,William R. Keating,Keating,USRepKeating,D,representative
+MI,Jack Bergman,Bergman,RepJackBergman,R,representative
+MI,Bill Huizenga,Huizenga,RepHuizenga,R,representative
+MI,Justin Amash,Amash,justinamash,I,representative
+MI,John R. Moolenaar,Moolenaar,RepMoolenaar,R,representative
+MI,Daniel T. Kildee,Kildee,RepDanKildee,D,representative
+MI,Fred Upton,Upton,RepFredUpton,R,representative
+MI,Tim Walberg,Walberg,RepWalberg,R,representative
+MI,Elissa Slotkin,Slotkin,RepSlotkin,D,representative
+MI,Sander M. Levin,Levin,RepAndyLevin,D,representative
+MI,Paul Mitchell,Mitchell,RepPaulMitchell,R,representative
+MI,Haley Stevens,Stevens,RepHaleyStevens,D,representative
+MI,Debbie Dingell,Dingell,RepDebDingell,D,representative
+MI,Rashida Tlaib,Tlaib,RepRashida,D,representative
+MI,Brenda L. Lawrence,Lawrence,RepLawrence,D,representative
+MN,Jim Hagedorn,Hagedorn,RepHagedorn,R,representative
+MN,Angie Craig,Craig,RepAngieCraig,D,representative
+MN,Dean Phillips,Phillips,RepDeanPhillips,D,representative
+MN,Betty McCollum,McCollum,BettyMcCollum04,D,representative
+MN,Ilhan Omar,Omar,Ilhan,D,representative
+MN,Tom Emmer,Emmer,RepTomEmmer,R,representative
+MN,Collin C. Peterson,Peterson,collinpeterson,D,representative
+MN,Pete Stauber,Stauber,RepPeteStauber,R,representative
+MO,Wm. Lacy Clay Jr.,Clay Jr.,LacyClayMO1,D,representative
+MO,Ann Wagner,Wagner,RepAnnWagner,R,representative
+MO,Blaine Luetkemeyer,Luetkemeyer,RepBlaine,R,representative
+MO,Vicky Hartzler,Hartzler,RepHartzler,R,representative
+MO,Emanuel Cleaver,Cleaver,repcleaver,D,representative
+MO,Sam Graves,Graves,RepSamGraves,R,representative
+MO,Billy Long,Long,USRepLong,R,representative
+MO,Jason Smith,Smith,RepJasonSmith,R,representative
+MS,Trent Kelly,Kelly,RepTrentKelly,R,representative
+MS,Bennie G. Thompson,Thompson,BennieGThompson,D,representative
+MS,Michael Guest,Guest,RepMichaelGuest,R,representative
+MS,Steven M. Palazzo,Palazzo,CongPalazzo,R,representative
+MT,Greg Gianforte,Gianforte,gregformontana,R,representative
+NC,G. K. Butterfield,Butterfield,GKButterfield,D,representative
+NC,George Holding,Holding,RepHolding,R,representative
+NC,Walter B. Jones,Jones,RepWalterJones,R,representative
+NC,David E. Price,Price,RepDavidEPrice,D,representative
+NC,Virginia Foxx,Foxx,virginiafoxx,R,representative
+NC,Mark Walker,Walker,RepMarkWalker,R,representative
+NC,David Rouzer,Rouzer,RepDavidRouzer,R,representative
+NC,Richard Hudson,Hudson,RepRichHudson,R,representative
+NC,Dan Bishop,Bishop,jdanbishop,R,representative
+NC,Patrick T. McHenry,McHenry,PatrickMcHenry,R,representative
+NC,Mark Meadows,Meadows,RepMarkMeadows,R,representative
+NC,Alma S. Adams,Adams,RepAdams,D,representative
+NC,Ted Budd,Budd,RepTedBudd,R,representative
+ND,Kelly Armstrong,Armstrong,RepArmstrongND,R,representative
+NE,Jeff Fortenberry,Fortenberry,JeffFortenberry,R,representative
+NE,Don Bacon,Bacon,RepDonBacon,R,representative
+NE,Adrian Smith,Smith,RepAdrianSmith,R,representative
+NH,Chris Pappas,Pappas,RepChrisPappas,D,representative
+NH,Ann M. Kuster,Kuster,RepAnnieKuster,D,representative
+NJ,Donald Norcross,Norcross,DonaldNorcross,D,representative
+NJ,Jefferson Van Dress,Dress,CongressmanJVD,R,representative
+NJ,Andy Kim,Kim,RepAndyKimNJ,D,representative
+NJ,Christopher H. Smith,Smith,RepChrisSmith,R,representative
+NJ,Josh Gottheimer,Gottheimer,RepJoshG,D,representative
+NJ,Frank Pallone,Pallone,FrankPallone,D,representative
+NJ,Tom Malinowski,Malinowski,RepMalinowski,D,representative
+NJ,Albio Sires,Sires,RepSires,D,representative
+NJ,Bill Pascrell,Pascrell,BillPascrell,D,representative
+NJ,Donald M. Payne,Payne,RepDonaldPayne,D,representative
+NJ,Mikie Sherrill,Sherrill,RepSherrill,D,representative
+NJ,Bonnie Watson Coleman,Coleman,RepBonnie,D,representative
+NM,Debra Haaland,Haaland,RepDebHaaland,D,representative
+NM,Xochitl Torres Small,Torres Small,RepTorresSmall,D,representative
+NM,Ben Ray Luján,Luján,repbenraylujan,D,representative
+NV,Dina Titus,Titus,repdinatitus,D,representative
+NV,Mark E. Amodei,Amodei,MarkAmodeiNV2,R,representative
+NV,Susie Lee,Lee,RepSusieLee,D,representative
+NV,Steven Horsford,Horsford,RepHorsford,D,representative
+NY,Lee M. Zeldin,Zeldin,RepLeeZeldin,R,representative
+NY,Peter T. King,King,RepPeteKing,R,representative
+NY,Thomas R.. Suozzi,Suozzi,RepTomSuozzi,D,representative
+NY,Kathleen M. Rice,Rice,RepKathleenRice,D,representative
+NY,Gregory W. Meeks,Meeks,RepGregoryMeeks,D,representative
+NY,Grace Meng,Meng,RepGraceMeng,D,representative
+NY,Nydia M. Velázquez,Velázquez,NydiaVelazquez,D,representative
+NY,Hakeem S. Jeffries,Jeffries,RepJeffries,D,representative
+NY,Yvette D. Clarke,Clarke,RepYvetteClarke,D,representative
+NY,Jerrold Nadler,Nadler,RepJerryNadler,D,representative
+NY,Max Rose,Rose,RepMaxRose,D,representative
+NY,Carolyn B. Maloney,Maloney,RepMaloney,D,representative
+NY,Adriano Espaillat,Espaillat,RepEspaillat,D,representative
+NY,Alexandria Ocasio-Cortez,Ocasio-Cortez,RepAOC,D,representative
+NY,José E. Serrano,Serrano,RepJoseSerrano,D,representative
+NY,Eliot L. Engel,Engel,RepEliotEngel,D,representative
+NY,Nita M. Lowey,Lowey,NitaLowey,D,representative
+NY,Sean Patrick Maloney,Maloney,RepSeanMaloney,D,representative
+NY,Antonio Delagado,Delagado,repdelgado,D,representative
+NY,Paul Tonko,Tonko,RepPaulTonko,D,representative
+NY,Elise M. Stefanik,Stefanik,RepStefanik,R,representative
+NY,Anthony Brindisi,Brindisi,RepBrindisi,D,representative
+NY,Tom Reed,Reed,RepTomReed,R,representative
+NY,John Katko,Katko,RepJohnKatko,R,representative
+NY,Joseph Morelle,Morelle,RepJoeMorelle,D,representative
+NY,Brian Higgins,Higgins,RepBrianHiggins,D,representative
+NY,Chris Collins,Collins,NA,R,representative
+OH,Steve Chabot,Chabot,RepSteveChabot,R,representative
+OH,Brad R. Wenstrup,Wenstrup,RepBradWenstrup,R,representative
+OH,Joyce Beatty,Beatty,RepBeatty,D,representative
+OH,Jim Jordan,Jordan,Jim_Jordan,R,representative
+OH,Robert E. Latta,Latta,boblatta,R,representative
+OH,Bill Johnson,Johnson,RepBillJohnson,R,representative
+OH,Bob Gibbs,Gibbs,RepBobGibbs,R,representative
+OH,Warren Davidson,Davidson,WarrenDavidson,R,representative
+OH,Marcy Kaptur,Kaptur,RepMarcyKaptur,D,representative
+OH,Michael R. Turner,Turner,RepMikeTurner,R,representative
+OH,Marcia L. Fudge,Fudge,RepMarciaFudge,D,representative
+OH,Troy Balderson,Balderson,RepBalderson,R,representative
+OH,Tim Ryan,Ryan,RepTimRyan,D,representative
+OH,David P. Joyce,Joyce,RepDaveJoyce,R,representative
+OH,Steve Stivers,Stivers,RepSteveStivers,R,representative
+OH,Anthony Gonzalez,Gonzalez,RepAGonzalez,R,representative
+OK,Kevin Hern,Hern,repkevinhern,R,representative
+OK,Markwayne Mullin,Mullin,RepMullin,R,representative
+OK,Frank D. Lucas,Lucas,RepFrankLucas,R,representative
+OK,Tom Cole,Cole,TomColeOK04,R,representative
+OK,Kendra Horn,Horn,RepKendraHorn,D,representative
+OR,Suzanne Bonamici,Bonamici,RepBonamici,D,representative
+OR,Greg Walden,Walden,repgregwalden,R,representative
+OR,Earl Blumenauer,Blumenauer,repblumenauer,D,representative
+OR,Peter A. DeFazio,DeFazio,RepPeterDeFazio,D,representative
+OR,Kurt Schrader,Schrader,RepSchrader,D,representative
+PA,Brian Fitzpatrick,Fitzpatrick,RepBrianFitz,R,representative
+PA,Brendan Boyle,Boyle,CongBoyle,D,representative
+PA,Dwight Evans,Evans,RepDwightEvans,D,representative
+PA,Madeleine Dean,Dean,RepDean,D,representative
+PA,Mary Gay Scanlon,Scanlon,RepMGS,D,representative
+PA,Chrissy Houlahan,Houlahan,RepHoulahan,D,representative
+PA,Susan Wilk,Wilk,RepSusanWild,D,representative
+PA,Matt Cartwright,Cartwright,RepCartwright,D,representative
+PA,Daniel Meuser,Meuser,RepMeuser,R,representative
+PA,Scott Perry,Perry,RepScottPerry,R,representative
+PA,Lloyd Smucker,Smucker,NA,R,representative
+PA,Fred Keller,Keller,VoteFredKeller,R,representative
+PA,John Joyce,Joyce,RepJohnJoyce,R,representative
+PA,Guy Reschenthaler,Reschenthaler,GReschenthaler,R,representative
+PA,Glenn Thompson,Thompson,CongressmanGT,R,representative
+PA,Mike Kelly,Kelly,MikeKellyPA,R,representative
+PA,Conor Lamb,Lamb,RepConorLamb,D,representative
+PA,Michael Doyle,Doyle,USRepMikeDoyle,D,representative
+RI,David N. Cicilline,Cicilline,davidcicilline,D,representative
+RI,James R. Langevin,Langevin,JimLangevin,D,representative
+SC,Joe Cunningham,Cunningham,RepCunningham,D,representative
+SC,Joe Wilson,Wilson,RepJoeWilson,R,representative
+SC,Jeff Duncan,Duncan,RepJeffDuncan,R,representative
+SC,William Timmons,Timmons,reptimmons,R,representative
+SC,Ralph Norman,Norman,RepRalphNorman,R,representative
+SC,James E. Clyburn,Clyburn,WhipClyburn,D,representative
+SC,Tom Rice,Rice,RepTomRice,R,representative
+SD,Dusty Johnson,Johnson,RepDustyJohnson,R,representative
+TN,David P. Roe,Roe,DrPhilRoe,R,representative
+TN,Tim Burchett,Burchett,RepTimBurchett,R,representative
+TN,"Charles J. ""Chuck"" Fleischmann",Fleischmann,RepChuck,R,representative
+TN,Scott DesJarlais,DesJarlais,DesJarlaisTN04,R,representative
+TN,Jim Cooper,Cooper,repjimcooper,D,representative
+TN,John Rose,Rose,RepJohnRose,R,representative
+TN,Mark Green,Green,RepMarkGreen,R,representative
+TN,David Kustoff,Kustoff,RepDavidKustoff,R,representative
+TN,Steve Cohen,Cohen,RepCohen,D,representative
+TX,Louie Gohmert,Gohmert,replouiegohmert,R,representative
+TX,Dan Crenshaw,Crenshaw,RepDanCrenshaw,R,representative
+TX,Van Taylor,Taylor,RepVanTaylor,R,representative
+TX,John Ratcliffe,Ratcliffe,RepRatcliffe,R,representative
+TX,Lance Gooden,Gooden,NA,R,representative
+TX,Ron Wright,Wright,RepRonWright,R,representative
+TX,Lizzie Fletcher,Fletcher,RepFletcher,D,representative
+TX,Kevin Brady,Brady,RepKevinBrady,R,representative
+TX,Al Green,Green,RepAlGreen,D,representative
+TX,Michael T. McCaul,McCaul,RepMcCaul,R,representative
+TX,K. Michael Conaway,Conaway,ConawayTX11,R,representative
+TX,Kay Granger,Granger,RepKayGranger,R,representative
+TX,Mac Thornberry,Thornberry,MacTXPress,R,representative
+TX,Randy K. Weber,Weber,TXRandy14,R,representative
+TX,Vicente Gonzalez,Gonzalez,RepGonzalez,D,representative
+TX,Veronica Escobar,Escobar,RepEscobar,D,representative
+TX,Bill Flores,Flores,RepBillFlores,R,representative
+TX,Sheila Jackson Lee,Lee,JacksonLeeTX18,D,representative
+TX,Jodey C. Arrington,Arrington,RepArrington,R,representative
+TX,Joaquin Castro,Castro,JoaquinCastrotx,D,representative
+TX,Chip Roy,Roy,RepChipRoy,R,representative
+TX,Pete Olson,Olson,RepPeteOlson,R,representative
+TX,Will Hurd,Hurd,HurdOnTheHill,R,representative
+TX,Kenny Marchant,Marchant,RepKenMarchant,R,representative
+TX,Roger Williams,Williams,RepRWilliams,R,representative
+TX,Michael C. Burgess,Burgess,michaelcburgess,R,representative
+TX,Michael Cloud,Cloud,RepCloudTX,R,representative
+TX,Henry Cuellar,Cuellar,RepCuellar,D,representative
+TX,Sylvia Garcia,Garcia,RepSylviaGarcia,D,representative
+TX,Eddie Bernice Johnson,Johnson,RepEBJ,D,representative
+TX,John R. Carter,Carter,JudgeCarter,R,representative
+TX,Colin Allred,Allred,RepColinAllred,D,representative
+TX,Marc A. Veasey,Veasey,RepVeasey,D,representative
+TX,Filemon Vela,Vela,RepFilemonVela,D,representative
+TX,Lloyd Doggett,Doggett,RepLloydDoggett,D,representative
+TX,Brian Babin,Babin,RepBrianBabin,R,representative
+UT,Rob Bishop,Bishop,RobBishopUT,R,representative
+UT,Chris Stewart,Stewart,RepChrisStewart,R,representative
+UT,John R. Curtis,Curtis,RepJohnCurtis,R,representative
+UT,Ben McAdams,McAdams,RepBenMcAdams,D,representative
+VA,Robert J. Wittman,Wittman,RobWittman,R,representative
+VA,Elaine Luria,Luria,RepElaineLuria,D,representative
+VA,"Robert C. ""Bobby"" Scott",Scott,BobbyScott,D,representative
+VA,A. Donald McEachin,McEachin,RepMcEachin,D,representative
+VA,Denver Riggleman,Riggleman,RepRiggleman,R,representative
+VA,Ben Cline,Cline,RepBenCline,R,representative
+VA,Abigail Spanberger,Spanberger,RepSpanberger,D,representative
+VA,Donald S. Beyer,Beyer,RepDonBeyer,D,representative
+VA,H. Morgan Griffith,Griffith,RepMGriffith,R,representative
+VA,Jennifer Wexton,Wexton,RepWexton,D,representative
+VA,Gerald E. Connolly,Connolly,GerryConnolly,D,representative
+VT,Peter Welch,Welch,PeterWelch,D,representative
+WA,Suzan K. DelBene,DelBene,RepDelBene,D,representative
+WA,Rick Larsen,Larsen,RepRickLarsen,D,representative
+WA,Jaime Herrera Beutler,Beutler,HerreraBeutler,R,representative
+WA,Dan Newhouse,Newhouse,RepNewhouse,R,representative
+WA,Cathy McMorris Rodgers,Rodgers,cathymcmorris,R,representative
+WA,Derek Kilmer,Kilmer,RepDerekKilmer,D,representative
+WA,Pramila Jayapal,Jayapal,RepJayapal,D,representative
+WA,Kim Schrier,Schrier,RepKimSchrier,D,representative
+WA,Adam Smith,Smith,RepAdamSmith,D,representative
+WA,Denny Heck,Heck,RepDennyHeck,D,representative
+WI,Bryan Steil,Steil,RepBryanSteil,R,representative
+WI,Mark Pocan,Pocan,repmarkpocan,D,representative
+WI,Ron Kind,Kind,RepRonKind,D,representative
+WI,Gwen Moore,Moore,RepGwenMoore,D,representative
+WI,F. James Sensenbrenner,Sensenbrenner,JimPressOffice,R,representative
+WI,Glenn Grothman,Grothman,RepGrothman,R,representative
+WI,Sean P. Duffy,Duffy,NA,R,representative
+WI,Mike Gallagher,Gallagher,RepGallagher,R,representative
+WV,David B. McKinley,McKinley,RepMcKinley,R,representative
+WV,Alexander X. Mooney,Mooney,RepAlexMooney,R,representative
+WV,Carol Miller,Miller,RepCarolMiller,R,representative
+WY,Liz Cheney,Cheney,RepLizCheney,R,representative
