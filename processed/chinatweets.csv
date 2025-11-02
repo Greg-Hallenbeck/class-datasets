@@ -1,4 +1,4 @@
-timestamp,daymonth,username,text,isquote,isretweet,favorites,retweets
+timestamp,dayyear,username,text,isquote,isretweet,favorites,retweets
 2019-10-23 22:51:00,2019-10,SenAlexander,i told them that i am glad the trump administration is still focused on stopping the illegal flow of fentanyl from china by holding the chinese to their promise to designate all forms of fentanyl as a controlled substance,FALSE,FALSE,15,4
 2019-10-28 18:50:00,2019-10,SenatorBaldwin,trumps trade war with china is not working for #madeinwi manufacturing it has caused chaos uncertainty and layoffswisconsin needs @realdonaldtrump to deliver results,FALSE,FALSE,27,19
 2019-10-03 18:45:00,2019-10,SenatorBaldwin,this is your democracy and we should stand united and put our country first sending a clear message to @realdonaldtrump and the rest of the world that we will not tolerate foreign interference from ukraine china or any foreign country in our american elections,FALSE,FALSE,121,29
